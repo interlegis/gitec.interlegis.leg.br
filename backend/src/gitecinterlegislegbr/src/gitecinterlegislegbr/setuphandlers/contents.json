@@ -1,0 +1,2610 @@
+[
+  {
+    "_parent": "",
+    "type": "Document",
+    "id": "imagens",
+    "title": "Imagens",
+    "description": "Banco de imagens.",
+    "_transitions": [
+      "publish"
+    ],
+    "_allowed_types": [
+      "Image"
+    ],
+    "exclude_from_nav": true
+  },
+  {
+    "_parent": "imagens",
+    "type": "Image",
+    "id": "logo-ilb.png",
+    "title": "Logo ILB",
+    "description": "Logomarca do Instituto Legislativo Brasileiro.",
+    "_image": "images/logo-ilb.png",
+    "_transitions": [],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "imagens",
+    "type": "Image",
+    "id": "logo-interlegis.png",
+    "title": "Logo Interlegis",
+    "description": "Logomarca do Programa Interlegis.",
+    "_image": "images/logo-interlegis.png",
+    "_transitions": [],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "imagens",
+    "type": "Image",
+    "id": "logo-senado-federal.png",
+    "title": "Logo Senado",
+    "description": "Logomarca do Senado Federal.",
+    "_image": "images/logo-senado-federal.png",
+    "_transitions": [],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "imagens",
+    "type": "Image",
+    "id": "selo-25-anos-interlegis.png",
+    "title": "Selo 25 anos",
+    "description": "Selo de 25 anos do Programa Interlegis.",
+    "_image": "images/selo-25-anos-interlegis.png",
+    "_transitions": [],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "imagens",
+    "type": "Image",
+    "id": "estatistica-estados.png",
+    "title": "Estatística dos estados",
+    "description": "Estatística de participação por estado no 12º EnGITEC.",
+    "_image": "images/estatistica-estados.png",
+    "_transitions": [],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "",
+    "type": "Document",
+    "id": "gitec",
+    "title": "GITEC",
+    "description": "Informações sobre a comunidade.",
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "gitec",
+    "type": "Document",
+    "id": "historia",
+    "title": "História",
+    "description": "História da criação da comunidade.",
+    "blocks": {
+        "97685acf-1d6b-4905-94d3-56cb96040ca2": {
+         "@type": "title"
+        },
+        "c5a84094-6cb5-4e4d-8142-a3660b6322e2": {
+         "@type": "slate",
+         "value": [
+          {
+           "type": "p",
+           "children": [
+            {
+             "text": "O "
+            },
+            {
+             "type": "strong",
+             "children": [
+              {
+               "text": " GITEC "
+              }
+             ]
+            },
+            {
+             "text": " (Grupo Interlegis de Tecnologia) \u00e9 uma  Comunidade de Pr\u00e1tica, criada em mar\u00e7o de 2004 por membros da comunidade  interlegis e C\u00e2maras que usavam o "
+            },
+            {
+             "type": "link",
+             "data": {
+              "url": "https://www12.senado.leg.br/interlegis/produtos/salp"
+             },
+             "children": [
+              {
+               "text": ""
+              },
+              {
+               "type": "strong",
+               "children": [
+                {
+                 "text": "SAPL"
+                }
+               ]
+              },
+              {
+               "text": ""
+              }
+             ]
+            },
+            {
+             "text": ". Atualmente, conta com mais de 800 membros que trabalham de forma colaborativa, suportada pelo "
+            },
+            {
+             "type": "link",
+             "data": {
+              "url": "https://www12.senado.leg.br/interlegis"
+             },
+             "children": [
+              {
+               "text": "Programa Interlegis"
+              }
+             ]
+            },
+            {
+             "text": " e voltada ao uso da tecnologia e do software livre no Legislativo. "
+            },
+            {
+             "type": "link",
+             "data": {
+              "url": "http://arquivos.interlegis.leg.br/interlegis/video/I_Encontro_GITEC/Gitec_3out07_13h15.wmv"
+             },
+             "children": [
+              {
+               "text": "Assista ao v\u00eddeo"
+              }
+             ]
+            },
+            {
+             "text": " gravado no "
+            },
+            {
+             "type": "link",
+             "data": {
+              "url": "https://engitec.interlegis.leg.br/engitec/edicoes/1o-engitec-2007"
+             },
+             "children": [
+              {
+               "text": "1\u00ba EnGITEC"
+              }
+             ]
+            },
+            {
+             "text": "."
+            }
+           ]
+          }
+         ],
+         "plaintext": "O GITEC (Grupo Interlegis de Tecnologia) \u00e9 uma  Comunidade de Pr\u00e1tica, criada em mar\u00e7o de 2004 por membros da comunidade  interlegis e C\u00e2maras que usavam o  SAPL  . Atualmente, conta com mais de 800 membros que trabalham de forma colaborativa, suportada pelo Programa Interlegis e voltada ao uso da tecnologia e do software livre no Legislativo. Assista ao v\u00eddeo gravado no 1\u00ba EnGITEC ."
+        },
+        "9c3077e5-b568-4529-8ed8-4f62fcd5b28e": {
+         "@type": "slate",
+         "value": [
+          {
+           "type": "p",
+           "children": [
+            {
+             "text": "O "
+            },
+            {
+             "type": "strong",
+             "children": [
+              {
+               "text": "Encontro do GITEC"
+              }
+             ]
+            },
+            {
+             "text": " \u00e9 um evento que ocorre anualmente  em Bras\u00edlia (DF), e que tem por princ\u00edpio materializar todo o  interc\u00e2mbio tecnol\u00f3gico e os relacionamentos que s\u00e3o realizados  virtualmente, al\u00e9m de promover a atualiza\u00e7\u00e3o tecnol\u00f3gica dos  participantes, atrav\u00e9s de palestras, espa\u00e7os abertos, palestras  rel\u00e2mpagos, minicursos e mesas redondas."
+            }
+           ]
+          }
+         ],
+         "plaintext": "O Encontro do GITEC \u00e9 um evento que ocorre anualmente  em Bras\u00edlia (DF), e que tem por princ\u00edpio materializar todo o  interc\u00e2mbio tecnol\u00f3gico e os relacionamentos que s\u00e3o realizados  virtualmente, al\u00e9m de promover a atualiza\u00e7\u00e3o tecnol\u00f3gica dos  participantes, atrav\u00e9s de palestras, espa\u00e7os abertos, palestras  rel\u00e2mpagos, minicursos e mesas redondas."
+        }
+    },
+    "blocks_layout":{
+      "items": [
+       "97685acf-1d6b-4905-94d3-56cb96040ca2",
+       "c5a84094-6cb5-4e4d-8142-a3660b6322e2",
+       "9c3077e5-b568-4529-8ed8-4f62fcd5b28e"
+      ]
+     },
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "gitec",
+    "type": "Document",
+    "id": "noticias",
+    "title": "Notícias",
+    "description": "Últimas notícias.",
+    "blocks": {
+      "8cab21f1-1601-429a-b7cf-b23dd0b7561f": {
+        "@type": "listing",
+        "block": "8cab21f1-1601-429a-b7cf-b23dd0b7561f",
+        "query": [],
+        "querystring": {
+         "query": [
+          {
+           "i": "path",
+           "o": "plone.app.querystring.operation.string.absolutePath",
+           "v": "/gitec/noticias"
+          },
+          {
+           "i": "portal_type",
+           "o": "plone.app.querystring.operation.selection.any",
+           "v": [
+            "News Item"
+           ]
+          }
+         ],
+         "sort_on": "effective",
+         "sort_order": "descending",
+         "sort_order_boolean": true
+        },
+        "variation": "summary"
+       }
+    },
+    "blocks_layout": {
+      "items": [
+        "8cab21f1-1601-429a-b7cf-b23dd0b7561f"
+       ]
+    },
+    "_transitions": [
+      "publish"
+    ],
+    "_allowed_types": [
+      "News Item",
+      "Image"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "gitec",
+    "type": "Document",
+    "id": "eventos",
+    "title": "Eventos",
+    "description": "Eventos da comunidade",
+    "blocks": {
+      "2a989706-15b9-4443-89bf-64685a2e7a4e": {
+        "@type": "listing",
+        "block": "2a989706-15b9-4443-89bf-64685a2e7a4e",
+        "query": [],
+        "querystring": {
+         "query": [
+          {
+           "i": "path",
+           "o": "plone.app.querystring.operation.string.absolutePath",
+           "v": "/gitec/eventos/"
+          },
+          {
+           "i": "portal_type",
+           "o": "plone.app.querystring.operation.selection.any",
+           "v": [
+            "Event"
+           ]
+          }
+         ],
+         "sort_on": "effective",
+         "sort_order": "descending",
+         "sort_order_boolean": true
+        },
+        "variation": "summary"
+       }
+    },
+    "blocks_layout": {
+      "items": [
+        "2a989706-15b9-4443-89bf-64685a2e7a4e"
+       ]
+    },
+    "_transitions": [
+      "publish"
+    ],
+    "_allowed_types": [
+      "Event",
+      "Image"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "",
+    "type": "Document",
+    "id": "engitec",
+    "title": "EnGITEC",
+    "description": "Informações sobre o EnGITEC.",
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "engitec",
+    "type": "Document",
+    "id": "como-comecou",
+    "title": "Como começou",
+    "description": "História da criação do evento.",
+    "blocks":{
+      "48968cc1-6e48-4eb2-b1c1-9c47464f5a40": {
+       "@type": "title"
+      },
+      "644b297f-6ea9-42ad-a529-3da7d1aac72e": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": "As pessoas afinaram seus v\u00ednculos e suas amizades, fazendo com que a  produ\u00e7\u00e3o de conte\u00fado se multiplicasse depois dos treinamentos. Segundo  Angelo Marcondes, participante do PPM: \"Se pegar o p\u00f3s PPM d\u00e1 para  perceber que muita gente come\u00e7ou a falar mais nas listas porque estava  falando para pessoas conhecidas, para nomes que tinham rostos.\""
+          }
+         ]
+        }
+       ],
+       "plaintext": "As pessoas afinaram seus v\u00ednculos e suas amizades, fazendo com que a  produ\u00e7\u00e3o de conte\u00fado se multiplicasse depois dos treinamentos. Segundo  Angelo Marcondes, participante do PPM: \"Se pegar o p\u00f3s PPM d\u00e1 para  perceber que muita gente come\u00e7ou a falar mais nas listas porque estava  falando para pessoas conhecidas, para nomes que tinham rostos.\""
+      },
+      "6689ebd8-6e8f-4fdb-a9bc-e66e4241e3d3": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": "Diante deste sentimento de conhecer pessoalmente os membros da  comunidade virtual, foi trazido um fortalecimento do grupo e da  comunidade, ent\u00e3o pensou-se em fazer um encontro presencial para trazer  as pessoas que n\u00e3o participaram do PPM, para que compartilhassem desta  experi\u00eancia com treinamentos e repasse de conhecimento na \u00e1rea t\u00e9cnica.  Esta foi a fa\u00edsca inicial onde a comunidade come\u00e7ou a fazer o evento do "
+          },
+          {
+           "type": "strong",
+           "children": [
+            {
+             "text": "EnGITEC"
+            }
+           ]
+          },
+          {
+           "text": ",  em 2007, iniciando um processo de amadurecimento da produ\u00e7\u00e3o de  conte\u00fado, ideias colaborativas e aproxima\u00e7\u00e3o de pessoas, al\u00e9m do  virtual."
+          }
+         ]
+        }
+       ],
+       "plaintext": "Diante deste sentimento de conhecer pessoalmente os membros da  comunidade virtual, foi trazido um fortalecimento do grupo e da  comunidade, ent\u00e3o pensou-se em fazer um encontro presencial para trazer  as pessoas que n\u00e3o participaram do PPM, para que compartilhassem desta  experi\u00eancia com treinamentos e repasse de conhecimento na \u00e1rea t\u00e9cnica.  Esta foi a fa\u00edsca inicial onde a comunidade come\u00e7ou a fazer o evento do EnGITEC ,  em 2007, iniciando um processo de amadurecimento da produ\u00e7\u00e3o de  conte\u00fado, ideias colaborativas e aproxima\u00e7\u00e3o de pessoas, al\u00e9m do  virtual."
+      },
+      "c0a6981b-79ee-4aeb-bf7f-8928281af378": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "type": "em",
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "type": "strong",
+             "children": [
+              {
+               "text": "Texto: Angelo Marcondes."
+              }
+             ]
+            },
+            {
+             "text": ""
+            }
+           ]
+          },
+          {
+           "text": ""
+          }
+         ]
+        }
+       ],
+       "plaintext": "  Texto: Angelo Marcondes.  "
+      },
+      "984462be-5965-4d7a-b043-0f4ea3168c43": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": "Em 2005, iniciou-se o PPM - Projeto Piloto de Moderniza\u00e7\u00e3o do Legislativo, onde v\u00e1rias Casas Legislativas foram convidadas a participar do projeto, enviando seus t\u00e9cnicos; que estavam inscritos no Grupo Interlegis de Tecnologia (GITEC) - Comunidade de Pr\u00e1tica constitu\u00edda de um grupo de discuss\u00e3o; para participarem, serem treinados e colaborarem com outras Casas. V\u00e1rias pessoas de v\u00e1rios pontos do Brasil vieram at\u00e9 Bras\u00edlia para receber treinamento e estas pessoas passaram a se conhecer. Ent\u00e3o uma comunidade de discuss\u00e3o que era apenas virtual (atrav\u00e9s de e-mail), passou a ter forma f\u00edsica, os nomes passaram a ter rostos."
+          }
+         ]
+        }
+       ],
+       "plaintext": "Em 2005, iniciou-se o PPM - Projeto Piloto de Moderniza\u00e7\u00e3o do Legislativo, onde v\u00e1rias Casas Legislativas foram convidadas a participar do projeto, enviando seus t\u00e9cnicos; que estavam inscritos no Grupo Interlegis de Tecnologia (GITEC) - Comunidade de Pr\u00e1tica constitu\u00edda de um grupo de discuss\u00e3o; para participarem, serem treinados e colaborarem com outras Casas. V\u00e1rias pessoas de v\u00e1rios pontos do Brasil vieram at\u00e9 Bras\u00edlia para receber treinamento e estas pessoas passaram a se conhecer. Ent\u00e3o uma comunidade de discuss\u00e3o que era apenas virtual (atrav\u00e9s de e-mail), passou a ter forma f\u00edsica, os nomes passaram a ter rostos."
+      }
+     },
+     "blocks_layout":{
+      "items": [
+       "48968cc1-6e48-4eb2-b1c1-9c47464f5a40",
+       "984462be-5965-4d7a-b043-0f4ea3168c43",
+       "644b297f-6ea9-42ad-a529-3da7d1aac72e",
+       "6689ebd8-6e8f-4fdb-a9bc-e66e4241e3d3",
+       "c0a6981b-79ee-4aeb-bf7f-8928281af378"
+      ]
+     },
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "engitec",
+    "type": "Document",
+    "id": "edicoes",
+    "title": "Edições",
+    "description": "Edições anteriores do evento.",
+    "blocks": {
+      "e8fb2fb1-2826-4ccb-91a0-1570f514aeb1": {
+        "@type": "listing",
+        "block": "e8fb2fb1-2826-4ccb-91a0-1570f514aeb1",
+        "query": [],
+        "querystring": {
+         "query": [
+          {
+           "i": "path",
+           "o": "plone.app.querystring.operation.string.absolutePath",
+           "v": "/engitec/edicoes/"
+          },
+          {
+           "i": "portal_type",
+           "o": "plone.app.querystring.operation.selection.any",
+           "v": [
+            "News Item",
+            "Images"
+           ]
+          }
+         ],
+         "sort_on": "effective",
+         "sort_order": "descending",
+         "sort_order_boolean": true
+        },
+        "variation": "summary"
+       }
+    },
+    "blocks_layout": {
+      "items": [
+        "e8fb2fb1-2826-4ccb-91a0-1570f514aeb1"
+      ]
+    },
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "engitec",
+    "type": "Document",
+    "id": "fotos",
+    "title": "Fotos",
+    "description": "Fotos dos eventos.",
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "engitec",
+    "type": "Document",
+    "id": "videos",
+    "title": "Vídeos",
+    "description": "Gravações dos eventos.",
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+    {
+    "_parent": "engitec",
+    "type": "Document",
+    "id": "perguntas-frequentes",
+    "title": "Perguntas Frequentes",
+    "description": "Respostas às perguntas frequentes sobre o evento.",
+    "blocks":{
+      "d4a25873-eb2b-4ae0-aa47-8cc75009b40c": {
+       "@type": "title"
+      },
+      "e14935ed-ae50-433d-b3e3-6233d372d561": {
+       "collapsed": true,
+       "non_exclusive": true,
+       "@type": "accordion",
+       "data": {
+        "blocks": {
+         "3d3be913-be08-4ae4-963c-f8ff5e57687a": {
+          "blocks": {
+           "8fe1f4b3-4a9c-45ea-befc-4517fcdfdb41": {
+            "@type": "slate",
+            "value": [
+             {
+              "type": "p",
+              "children": [
+               {
+                "text": "N\u00e3o. A organiza\u00e7\u00e3o do evento envia por e-mail, ap\u00f3s a confer\u00eancia da participa\u00e7\u00e3o, para que o participante possa imprimir o seu certificado."
+               }
+              ]
+             }
+            ],
+            "plaintext": "N\u00e3o. A organiza\u00e7\u00e3o do evento envia por e-mail, ap\u00f3s a confer\u00eancia da participa\u00e7\u00e3o, para que o participante possa imprimir o seu certificado."
+           }
+          },
+          "blocks_layout": {
+           "items": [
+            "8fe1f4b3-4a9c-45ea-befc-4517fcdfdb41"
+           ]
+          },
+          "title": "O certificado ser\u00e1 entregue no evento?",
+          "@type": "accordionPanel"
+         },
+         "7dfe38db-8e59-497a-a69e-1396041f8f88": {
+          "blocks": {
+           "615592d8-b6c8-4bcb-b1cc-24ad9fff6d5f": {
+            "@type": "slate",
+            "value": [
+             {
+              "type": "p",
+              "children": [
+               {
+                "text": "No ato da inscri\u00e7\u00e3o o participante deve marcar o item \"Deseja receber convite?\" e informar o nome do presidente e e-mails para onde ser\u00e1 enviado o convite."
+               }
+              ]
+             }
+            ],
+            "plaintext": "No ato da inscri\u00e7\u00e3o o participante deve marcar o item \"Deseja receber convite?\" e informar o nome do presidente e e-mails para onde ser\u00e1 enviado o convite."
+           }
+          },
+          "blocks_layout": {
+           "items": [
+            "615592d8-b6c8-4bcb-b1cc-24ad9fff6d5f"
+           ]
+          },
+          "title": "Como pe\u00e7o convite para participar do evento?",
+          "@type": "accordionPanel"
+         },
+         "83bb32b4-30bf-4cd3-9a58-efaf164a431b": {
+          "blocks": {
+           "2efae56c-5776-4ac2-9f1e-1548ac1692af": {
+            "@type": "slate",
+            "value": [
+             {
+              "type": "p",
+              "children": [
+               {
+                "text": "N\u00e3o"
+               }
+              ]
+             }
+            ],
+            "plaintext": "N\u00e3o"
+           }
+          },
+          "blocks_layout": {
+           "items": [
+            "2efae56c-5776-4ac2-9f1e-1548ac1692af"
+           ]
+          },
+          "title": "O Interlegis paga hospedagem, passagem, alimenta\u00e7\u00e3o para o evento?",
+          "@type": "accordionPanel"
+         },
+         "b8eef345-0ea9-4306-98ac-0edfaa045074": {
+          "blocks": {
+           "66f0be99-d989-4167-91b0-6dfa30080a92": {
+            "@type": "slate",
+            "value": [
+             {
+              "type": "p",
+              "children": [
+               {
+                "text": "\u00a0Sim. O evento ser\u00e1 transmitido atrav\u00e9s do canal do "
+               },
+               {
+                "type": "link",
+                "data": {
+                 "url": "https://www.youtube.com/user/programainterlegis/videos"
+                },
+                "children": [
+                 {
+                  "text": "YouTube do Interlegis"
+                 }
+                ]
+               },
+               {
+                "text": "."
+               }
+              ]
+             }
+            ],
+            "plaintext": "Sim. O evento ser\u00e1 transmitido atrav\u00e9s do canal do YouTube do Interlegis ."
+           }
+          },
+          "blocks_layout": {
+           "items": [
+            "66f0be99-d989-4167-91b0-6dfa30080a92"
+           ]
+          },
+          "title": "O evento ser\u00e1 transmitido?",
+          "@type": "accordionPanel"
+         },
+         "0292b6a4-1f98-4037-8b81-93fd265e9ab6": {
+          "blocks": {
+           "30871955-1a68-45de-9315-d1fa6e54470d": {
+            "@type": "slate",
+            "value": [
+             {
+              "type": "p",
+              "children": [
+               {
+                "text": "Sim. As palestras ficar\u00e3o dispn\u00edveis no canal do "
+               },
+               {
+                "type": "link",
+                "data": {
+                 "url": "https://www.youtube.com/user/programainterlegis/videos"
+                },
+                "children": [
+                 {
+                  "text": "YouTube do Interlegis"
+                 }
+                ]
+               },
+               {
+                "text": "."
+               }
+              ]
+             }
+            ],
+            "plaintext": "Sim. As palestras ficar\u00e3o dispn\u00edveis no canal do YouTube do Interlegis ."
+           }
+          },
+          "blocks_layout": {
+           "items": [
+            "30871955-1a68-45de-9315-d1fa6e54470d"
+           ]
+          },
+          "title": "As palestras ser\u00e3o gravadas?",
+          "@type": "accordionPanel"
+         }
+        },
+        "blocks_layout": {
+         "items": [
+          "3d3be913-be08-4ae4-963c-f8ff5e57687a",
+          "7dfe38db-8e59-497a-a69e-1396041f8f88",
+          "83bb32b4-30bf-4cd3-9a58-efaf164a431b",
+          "b8eef345-0ea9-4306-98ac-0edfaa045074",
+          "0292b6a4-1f98-4037-8b81-93fd265e9ab6"
+         ]
+        }
+       },
+       "title_size": "h2"
+      }
+     },
+     "blocks_layout":{
+      "items": [
+       "d4a25873-eb2b-4ae0-aa47-8cc75009b40c",
+       "e14935ed-ae50-433d-b3e3-6233d372d561"
+      ]
+     },
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "",
+    "type": "Document",
+    "id": "desenvolvimento",
+    "title": "Desenvolvimento",
+    "description": "Como começar a desenvolver.",
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "desenvolvimento",
+    "type": "Document",
+    "id": "como-comecar-a-desenvolver",
+    "title": "Como começar a desenvolver",
+    "description": "Ferramentas utilizadas no desenvolvimento dos produtos.",
+    "blocks":{
+      "1278c10b-1a07-405f-bfb2-fb175e640a4f": {
+       "@type": "title"
+      },
+      "242656bb-f2c8-43d2-b676-b18a5147e969": {
+       "@type": "slate",
+       "plaintext": " Comunidade Python.org.br   Tutorial de Python   W3Schools Tutorial de Python   Python para Zumbis ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Comunidade Python.org.br"
+              }
+             ],
+             "data": {
+              "url": "https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjP1Yew_uT4AhU3uJUCHaxBDWkQFnoECAcQAQ&url=https%3A%2F%2Fpython.org.br%2F&usg=AOvVaw0iw_k2R6WuPLJaGAFh-gya"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Tutorial de Python"
+              }
+             ],
+             "data": {
+              "url": "https://docs.python.org/3/tutorial/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "W3Schools Tutorial de Python"
+              }
+             ],
+             "data": {
+              "url": "https://www.w3schools.com/python/default.asp"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Python para Zumbis"
+              }
+             ],
+             "data": {
+              "url": "https://www.pycursos.com.br/python-para-zumbis/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "2b38ec61-3929-44c3-ad69-4739e4a53b3c": {
+       "@type": "slate",
+       "plaintext": " CMS Plone ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": "CMS Plone"
+            }
+           ],
+           "data": {
+            "url": "https://plone.org"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "h3"
+        }
+       ]
+      },
+      "3583b4d3-960c-415a-85c5-f8158d539226": {
+       "@type": "slate",
+       "plaintext": "O desenvolvimento dos produtos est\u00e1 baseado em alguns pilares:",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "O desenvolvimento dos produtos est\u00e1 baseado em alguns pilares:"
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "3b21acb0-befd-4e29-8c23-06a2a8d93da7": {
+       "@type": "slate",
+       "plaintext": " Plone.org   Comunidade Plone.org.br   Discuss\u00e3o sobre Plone   Documenta\u00e7\u00e3o Plone 6   Demonstra\u00e7\u00e3o do Plone 6 ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Plone.org"
+              }
+             ],
+             "data": {
+              "url": "http://plone.org/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Comunidade Plone.org.br"
+              }
+             ],
+             "data": {
+              "url": "http://plone.org.br/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Discuss\u00e3o sobre Plone"
+              }
+             ],
+             "data": {
+              "url": "https://community.plone.org/c/local-communities/pt/54"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Documenta\u00e7\u00e3o Plone 6"
+              }
+             ],
+             "data": {
+              "url": "https://plone.org.br/documentacao"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Demonstra\u00e7\u00e3o do Plone 6"
+              }
+             ],
+             "data": {
+              "url": "https://6.demo.plone.org/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "3f7364df-30ef-4a1b-a8f0-1973c6bfdd94": {
+       "@type": "slate",
+       "plaintext": " Primeiros passos com Docker   Comandos b\u00e1sicos ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Primeiros passos com Docker"
+              }
+             ],
+             "data": {
+              "url": "https://medium.com/cwi-software/primeiros-passos-com-docker-conceitos-b%C3%A1sicos-%C3%A0-cria%C3%A7%C3%A3o-de-sua-primeira-imagem-f6ac2a3c9d25"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Comandos b\u00e1sicos"
+              }
+             ],
+             "data": {
+              "url": "https://stack.desenvolvedor.expert/appendix/docker/comandos.html"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "44cf7d6d-aa99-4926-b98a-6a4c45b77a2a": {
+       "@type": "slate",
+       "plaintext": " Design Thinking \u00e9 um m\u00e9todo para estimular  idea\u00e7\u00e3o e perspic\u00e1cia ao abordar problemas, relacionados a futuras  aquisi\u00e7\u00f5es de informa\u00e7\u00f5es, an\u00e1lise de conhecimento e propostas de  solu\u00e7\u00f5es. Wikip\u00e9dia ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": "Design Thinking"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " \u00e9 um m\u00e9todo para estimular  idea\u00e7\u00e3o e perspic\u00e1cia ao abordar problemas, relacionados a futuras  aquisi\u00e7\u00f5es de informa\u00e7\u00f5es, an\u00e1lise de conhecimento e propostas de  solu\u00e7\u00f5es. "
+          },
+          {
+           "children": [
+            {
+             "text": "Wikip\u00e9dia"
+            }
+           ],
+           "data": {
+            "url": "https://pt.wikipedia.org/wiki/Design_thinking"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "482adae4-6ffa-433a-9c24-a14e64df1de1": {
+       "@type": "slate",
+       "plaintext": " Django \u00e9 um framework Python que facilita a cria\u00e7\u00e3o de sites usando Python. Cuida  das coisas dif\u00edceis para que voc\u00ea possa se concentrar na constru\u00e7\u00e3o de  suas aplica\u00e7\u00f5es web. Enfatiza a reutiliza\u00e7\u00e3o de componentes, tamb\u00e9m  conhecido como DRY (Don't Repeat Yourself), e vem com recursos prontos para uso, como sistema de login, conex\u00e3o de banco de dados e opera\u00e7\u00f5es CRUD (Create Read Update Delete).",
+       "value": [
+        {
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": "Django"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " \u00e9 um framework "
+          },
+          {
+           "children": [
+            {
+             "text": "Python"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " que facilita a cria\u00e7\u00e3o de sites usando Python. Cuida  das coisas dif\u00edceis para que voc\u00ea possa se concentrar na constru\u00e7\u00e3o de  suas aplica\u00e7\u00f5es web. Enfatiza a reutiliza\u00e7\u00e3o de componentes, tamb\u00e9m  conhecido como "
+          },
+          {
+           "children": [
+            {
+             "text": "DRY"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " (Don't Repeat Yourself), e vem com recursos prontos para uso, como sistema de login, conex\u00e3o de banco de dados e opera\u00e7\u00f5es "
+          },
+          {
+           "children": [
+            {
+             "text": "CRUD"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " (Create Read Update Delete)."
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "4e4906b8-2235-41eb-83c9-7e340dfe1b81": {
+       "@type": "slate",
+       "plaintext": "Linguagens de Front-end",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Linguagens de Front-end"
+          }
+         ],
+         "type": "h3"
+        }
+       ]
+      },
+      "4e99d930-a1e9-4ee7-9ee1-1f2f65fcdd34": {
+       "@type": "slate",
+       "plaintext": "Este \u00e9 um registro usado para hospedar e baixar diversas imagens. Pode ser visto como uma plataforma SAAS (Software as a Service) de compartilhamento e gerenciamento de imagens. Dockerfile \u2013 Um arquivo texto contendo uma sintax simples para cria\u00e7\u00e3o de novas imagens.",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Este \u00e9 um registro usado para hospedar e baixar diversas imagens. Pode ser visto como uma plataforma "
+          },
+          {
+           "children": [
+            {
+             "text": "SAAS (Software as a Service)"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " de compartilhamento e gerenciamento de imagens. "
+          },
+          {
+           "children": [
+            {
+             "text": "Dockerfile"
+            }
+           ],
+           "type": "b"
+          },
+          {
+           "text": " \u2013 Um arquivo texto contendo uma sintax simples para cria\u00e7\u00e3o de novas imagens."
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "502f81ea-3835-44f3-8d73-a9e69b005605": {
+       "@type": "slate",
+       "plaintext": "Sites de refer\u00eancia:",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "\u00a0Sites de refer\u00eancia:"
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "50588104-fcf5-44f2-a12a-11c6b4edbf25": {
+       "@type": "slate",
+       "plaintext": "\" Docker \u00e9 uma plataforma voltada para a cria\u00e7\u00e3o e  execu\u00e7\u00e3o de containers. Diferente de uma VM, um container empacota  somente o c\u00f3digo, depend\u00eancias e vari\u00e1veis de ambiente necess\u00e1rias para a  execu\u00e7\u00e3o de uma aplica\u00e7\u00e3o. Sendo assim, ao inv\u00e9s de termos uma  infraestrutura onde cada VM tem seu pr\u00f3prio SO sendo respons\u00e1vel por uma  aplica\u00e7\u00e3o diferente, temos uma infraestrutura onde, com apenas um  sistema operacional e atrav\u00e9s do Docker, podemos gerenciar diversas  aplica\u00e7\u00f5es. Cada uma dessas aplica\u00e7\u00f5es \u00e9 executada de forma isolada, sem  a necessidade de um sistema operacional pr\u00f3prio.\" Leonardo Berlatto ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "\""
+          },
+          {
+           "children": [
+            {
+             "text": "Docker"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " \u00e9 uma plataforma voltada para a cria\u00e7\u00e3o e  execu\u00e7\u00e3o de containers. Diferente de uma VM, um container empacota  somente o c\u00f3digo, depend\u00eancias e vari\u00e1veis de ambiente necess\u00e1rias para a  execu\u00e7\u00e3o de uma aplica\u00e7\u00e3o. Sendo assim, ao inv\u00e9s de termos uma  infraestrutura onde cada VM tem seu pr\u00f3prio SO sendo respons\u00e1vel por uma  aplica\u00e7\u00e3o diferente, temos uma infraestrutura onde, com apenas um  sistema operacional e atrav\u00e9s do Docker, podemos gerenciar diversas  aplica\u00e7\u00f5es. Cada uma dessas aplica\u00e7\u00f5es \u00e9 executada de forma isolada, sem  a necessidade de um sistema operacional pr\u00f3prio.\" "
+          },
+          {
+           "children": [
+            {
+             "text": "Leonardo Berlatto"
+            }
+           ],
+           "data": {
+            "url": "https://medium.com/cwi-software/primeiros-passos-com-docker-conceitos-b%C3%A1sicos-%C3%A0-cria%C3%A7%C3%A3o-de-sua-primeira-imagem-f6ac2a3c9d25"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "5c423916-a1b0-4d36-bcf9-2bab94f0cfb2": {
+       "@type": "slate",
+       "plaintext": " Comandos b\u00e1sicos do Git ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Comandos b\u00e1sicos do Git"
+              }
+             ],
+             "data": {
+              "url": "https://github.com/interlegis/sapl/blob/3.1.x/docs/howtogit.rst"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "5ce3086f-5f11-4f9a-a323-6caea654b11e": {
+       "@type": "slate",
+       "plaintext": " Linguagem de programa\u00e7\u00e3o Python ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": "Linguagem de programa\u00e7\u00e3o Python"
+            }
+           ],
+           "data": {
+            "url": "https://www.python.org/"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "h3"
+        }
+       ]
+      },
+      "5e94ae2f-6a46-4bec-99f5-90f8b26a7d3d": {
+       "@type": "slate",
+       "plaintext": "Sites de refer\u00eancia:",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Sites de refer\u00eancia:"
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "5ed756e6-e622-4a64-9c5a-0e42d37a7b58": {
+       "@type": "slate",
+       "plaintext": "Sites de refer\u00eancia:",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Sites de refer\u00eancia:"
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "5f54e73b-9be2-46ab-95d0-7866e831ed8f": {
+       "@type": "slate",
+       "plaintext": "Todos os c\u00f3digos dos projetos desenvolvidos pela comunidade est\u00e3o hospedados no GitHub . Para contribuir com algum produto, fa\u00e7a um cadastro na plataforma; instale os pacotes no seu sistema operacional e gere uma chave ssh para autentica\u00e7\u00e3o.",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Todos os c\u00f3digos dos projetos desenvolvidos pela comunidade est\u00e3o hospedados no "
+          },
+          {
+           "children": [
+            {
+             "text": "GitHub"
+            }
+           ],
+           "data": {
+            "url": "https://github.com/interlegis"
+           },
+           "type": "link"
+          },
+          {
+           "text": ". Para contribuir com algum produto, fa\u00e7a um "
+          },
+          {
+           "children": [
+            {
+             "text": "cadastro"
+            }
+           ],
+           "data": {
+            "url": "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home"
+           },
+           "type": "link"
+          },
+          {
+           "text": " na plataforma; "
+          },
+          {
+           "children": [
+            {
+             "text": "instale"
+            }
+           ],
+           "data": {
+            "url": "https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git"
+           },
+           "type": "link"
+          },
+          {
+           "text": " os pacotes no seu sistema operacional e "
+          },
+          {
+           "children": [
+            {
+             "text": "gere"
+            }
+           ],
+           "data": {
+            "url": "https://docs.github.com/pt/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent"
+           },
+           "type": "link"
+          },
+          {
+           "text": " uma chave ssh para autentica\u00e7\u00e3o."
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "5ffefd87-ec4a-48b6-843b-4e4cc924fd0a": {
+       "@type": "slate",
+       "plaintext": " Docker HUB ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": "Docker HUB"
+            }
+           ],
+           "data": {
+            "url": "https://hub.docker.com/u/interlegis"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "h3"
+        }
+       ]
+      },
+      "6702b635-3a82-44ec-8405-7afdc786b207": {
+       "@type": "slate",
+       "plaintext": " GitHub \u00e9 uma plataforma de hospedagem de c\u00f3digo-fonte e arquivos com controle de vers\u00e3o usando o Git. Permite que programadores, utilit\u00e1rios ou qualquer usu\u00e1rio cadastrado na plataforma contribua em projetos privados e/ou Open Source de qualquer lugar do mundo. Promove f\u00e1cil comunica\u00e7\u00e3o atrav\u00e9s de recursos que relatam problemas ou mesclam reposit\u00f3rios remotos ( issues, pull request ). Wikip\u00e9dia ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": "GitHub"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " \u00e9 uma plataforma de hospedagem de c\u00f3digo-fonte e arquivos com controle de vers\u00e3o usando o "
+          },
+          {
+           "children": [
+            {
+             "text": "Git."
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " Permite que programadores, utilit\u00e1rios ou qualquer usu\u00e1rio cadastrado na plataforma contribua em projetos privados e/ou "
+          },
+          {
+           "children": [
+            {
+             "text": "Open Source"
+            }
+           ],
+           "type": "em"
+          },
+          {
+           "text": " de qualquer lugar do mundo. Promove f\u00e1cil comunica\u00e7\u00e3o atrav\u00e9s de recursos que relatam problemas ou mesclam reposit\u00f3rios remotos ("
+          },
+          {
+           "children": [
+            {
+             "text": "issues, pull request"
+            }
+           ],
+           "type": "i"
+          },
+          {
+           "text": "). "
+          },
+          {
+           "children": [
+            {
+             "text": "Wikip\u00e9dia"
+            }
+           ],
+           "data": {
+            "url": "https://pt.wikipedia.org/wiki/GitHub"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "67e70f80-9cc0-436b-947c-618b2ffc9b64": {
+       "@type": "slate",
+       "plaintext": "Design Thinking",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Design Thinking"
+          }
+         ],
+         "type": "h3"
+        }
+       ]
+      },
+      "72ca727b-845c-451b-891e-c053fc150da6": {
+       "@type": "slate",
+       "plaintext": "Todos os produtos desenvolvidos pela comunidade utilizam como base a linguagem de programa\u00e7\u00e3o Python .  \u00c9 uma linguagem de programa\u00e7\u00e3o de alto n\u00edvel, interpretada de script,  imperativa, orientada a objetos, funcional, de tipagem din\u00e2mica e forte.  Foi lan\u00e7ada por Guido van Rossum em 1991. Wikipedia ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Todos os produtos desenvolvidos pela comunidade utilizam como base a linguagem de programa\u00e7\u00e3o "
+          },
+          {
+           "children": [
+            {
+             "text": "Python"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": ".  \u00c9 uma linguagem de programa\u00e7\u00e3o de alto n\u00edvel, interpretada de script,  imperativa, orientada a objetos, funcional, de tipagem din\u00e2mica e forte.  Foi lan\u00e7ada por Guido van Rossum em 1991. "
+          },
+          {
+           "children": [
+            {
+             "text": "Wikipedia"
+            }
+           ],
+           "data": {
+            "url": "https://pt.wikipedia.org/wiki/Python"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "741d84c6-3dae-432a-906c-536835a4fdb8": {
+       "@type": "slate",
+       "plaintext": " Escola Design Thinking ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Escola Design Thinking"
+              }
+             ],
+             "data": {
+              "url": "https://escoladesignthinking.echos.cc/blog/2019/09/guia-design-thinking/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "78e40720-dd91-4867-a2ae-ce06b39c6d45": {
+       "@type": "slate",
+       "plaintext": "Depois destes passos realizados, acesse o reposit\u00f3rio do produto em que deseja trabalhar e leia atentamente o README.rst que possui informa\u00e7\u00f5es de como instalar o ambiente e boas pr\u00e1ticas de desenvolvimento. Por exemplo:",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Depois destes passos realizados, acesse o reposit\u00f3rio do produto em que deseja trabalhar e leia atentamente o "
+          },
+          {
+           "children": [
+            {
+             "text": "README.rst"
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " que possui informa\u00e7\u00f5es de como instalar o ambiente e boas pr\u00e1ticas de desenvolvimento. Por exemplo:"
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "84359eb3-f706-464a-8f6f-eccda6eaab8f": {
+       "@type": "slate",
+       "plaintext": " GitHub/Git ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": "GitHub/Git"
+            }
+           ],
+           "data": {
+            "url": "https://github.com/interlegis"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "h3"
+        }
+       ]
+      },
+      "94dd9f5b-4be2-4fe2-93ba-5a18bbc610a5": {
+       "@type": "slate",
+       "plaintext": " Framework Django ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": "Framework Django"
+            }
+           ],
+           "data": {
+            "url": "https://www.djangoproject.com/"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "h3"
+        }
+       ]
+      },
+      "9abbcfb2-9236-4def-ad73-fc3e08b291ad": {
+       "@type": "slate",
+       "plaintext": "Para orienta\u00e7\u00f5es sobe o GitHub/Git:",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Para orienta\u00e7\u00f5es sobe o GitHub/Git:"
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "a277b3a6-fd6b-4747-b224-984abe493922": {
+       "@type": "slate",
+       "plaintext": " https://github.com/interlegis/sapl ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "https://github.com/interlegis/sapl"
+              }
+             ],
+             "data": {
+              "url": "https://github.com/interlegis/sapl"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "c02b83d2-3f69-44bc-9ec4-5493414e3bf6": {
+       "@type": "slate",
+       "plaintext": " Manual de sobreviv\u00eancia do GitHub   Git - Guia pr\u00e1tico ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Manual de sobreviv\u00eancia do GitHub"
+              }
+             ],
+             "data": {
+              "url": "https://www.professorisidro.com.br/manual-de-sobrevivencia-do-github/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Git - Guia pr\u00e1tico"
+              }
+             ],
+             "data": {
+              "url": "https://rogerdudler.github.io/git-guide/index.pt_BR.html"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "c1f38f30-b319-4f08-a16d-f5b2ac7292ee": {
+       "@type": "slate",
+       "plaintext": " W3Schools Tutorial de HTML   W3Schools Tutorial de CSS   W3Schools Tutorial de Javascript   W3Schools Tutorial de React ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "W3Schools Tutorial de HTML"
+              }
+             ],
+             "data": {
+              "url": "https://www.w3schools.com/html/default.asp"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "W3Schools Tutorial de CSS"
+              }
+             ],
+             "data": {
+              "url": "https://www.w3schools.com/css/default.asp"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "W3Schools Tutorial de Javascript"
+              }
+             ],
+             "data": {
+              "url": "https://www.w3schools.com/js/default.asp"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "W3Schools Tutorial de React"
+              }
+             ],
+             "data": {
+              "url": "https://www.w3schools.com/react/default.asp"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "c7f4f876-1f39-4c39-ae6e-8f13552c56b1": {
+       "@type": "slate",
+       "plaintext": "O  Portal Modelo  \u00e9 uma customiza\u00e7\u00e3o realizada em cima de um poderoso e flex\u00edvel CMS (Content Management System),  Plone   , que preza pela acessibilidade, usabilidade e internacionaliza\u00e7\u00e3o.",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "O "
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Portal Modelo"
+              }
+             ],
+             "type": "strong"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "data": {
+            "url": "https://www12.senado.leg.br/interlegis/produtos/portal-modelo"
+           },
+           "type": "link"
+          },
+          {
+           "text": " \u00e9 uma customiza\u00e7\u00e3o realizada em cima de um poderoso e flex\u00edvel CMS (Content Management System), "
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Plone"
+              }
+             ],
+             "type": "strong"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "data": {
+            "url": "https://plone.org"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": ","
+            }
+           ],
+           "type": "strong"
+          },
+          {
+           "text": " que preza pela acessibilidade, usabilidade e internacionaliza\u00e7\u00e3o."
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "cc0aeaac-455d-4b95-b8fd-d969e5332570": {
+       "@type": "slate",
+       "plaintext": " Documenta\u00e7\u00e3o oficial   Tutorial Django Girls   W3Schools Tutorial de Django ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Documenta\u00e7\u00e3o oficial"
+              }
+             ],
+             "data": {
+              "url": "https://docs.djangoproject.com/en/4.0/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Tutorial Django Girls"
+              }
+             ],
+             "data": {
+              "url": "https://tutorial.djangogirls.org/pt/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "W3Schools Tutorial de Django"
+              }
+             ],
+             "data": {
+              "url": "https://www.w3schools.com/django/index.php"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "d18c0797-eabb-4706-8e67-7edc3a5cae32": {
+       "@type": "slate",
+       "plaintext": "Alguns sites de refer\u00eancia:",
+       "value": [
+        {
+         "children": [
+          {
+           "text": "Alguns sites de refer\u00eancia:"
+          }
+         ],
+         "type": "p"
+        }
+       ]
+      },
+      "ed527a83-c8cb-4395-b0d2-3873c31cb204": {
+       "@type": "slate",
+       "plaintext": " O que \u00e9 Docker HUB   Docker HUB Interlegis ",
+       "value": [
+        {
+         "children": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "O que \u00e9 Docker HUB"
+              }
+             ],
+             "data": {
+              "url": "https://flexa.cloud/o-que-e-docker-hub/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          },
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Docker HUB Interlegis"
+              }
+             ],
+             "data": {
+              "url": "https://hub.docker.com/u/interlegis"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "li"
+          }
+         ],
+         "type": "ul"
+        }
+       ]
+      },
+      "f13112e7-5f62-4437-95be-9433854cc368": {
+       "@type": "slate",
+       "plaintext": " Docker ",
+       "value": [
+        {
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "children": [
+            {
+             "text": "Docker"
+            }
+           ],
+           "data": {
+            "url": "https://www.docker.com/"
+           },
+           "type": "link"
+          },
+          {
+           "text": ""
+          }
+         ],
+         "type": "h3"
+        }
+       ]
+      },
+      "4985ab3e-7c48-4e5d-9c5e-3dc75977b4ce": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "type": "strong",
+           "children": [
+            {
+             "text": "Epis\u00f3dios M\u00e3o na Massa"
+            }
+           ]
+          },
+          {
+           "text": ""
+          }
+         ]
+        }
+       ],
+       "plaintext": " Epis\u00f3dios M\u00e3o na Massa "
+      },
+      "85443fe8-d112-4fe2-9ac4-7d19eace0cdf": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "ul",
+         "children": [
+          {
+           "type": "li",
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "type": "link",
+             "data": {
+              "url": "https://youtu.be/mrGZQsndiFQ"
+             },
+             "children": [
+              {
+               "text": "Come\u00e7ando um projeto com Plone 6"
+              }
+             ]
+            },
+            {
+             "text": ""
+            }
+           ]
+          },
+          {
+           "type": "li",
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "type": "link",
+             "data": {
+              "url": "https://youtu.be/UPDnzYTdZLM"
+             },
+             "children": [
+              {
+               "text": "Criando um tipo de conte\u00fado no Plone 6"
+              }
+             ]
+            },
+            {
+             "text": ""
+            }
+           ]
+          },
+          {
+           "type": "li",
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "type": "link",
+             "data": {
+              "url": "https://youtu.be/E799Q2TmXY4"
+             },
+             "children": [
+              {
+               "text": "Migra\u00e7\u00f5es de conte\u00fado e vers\u00f5es"
+              }
+             ]
+            },
+            {
+             "text": ""
+            }
+           ]
+          }
+         ]
+        }
+       ],
+       "plaintext": " Come\u00e7ando um projeto com Plone 6   Criando um tipo de conte\u00fado no Plone 6   Migra\u00e7\u00f5es de conte\u00fado e vers\u00f5es "
+      },
+      "4163d732-45dc-4335-b93a-0e8e18787ee2": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "type": "strong",
+           "children": [
+            {
+             "text": "Epis\u00f3dios Plone de Norte a Sul"
+            }
+           ]
+          },
+          {
+           "text": ""
+          }
+         ]
+        }
+       ],
+       "plaintext": " Epis\u00f3dios Plone de Norte a Sul "
+      },
+      "68ad9578-ccc7-4831-95ec-f980dda1939e": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "ul",
+         "children": [
+          {
+           "type": "li",
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "type": "link",
+             "data": {
+              "url": "https://youtu.be/8OpaIcpn4WE"
+             },
+             "children": [
+              {
+               "text": "Imoi\u00ea"
+              }
+             ]
+            },
+            {
+             "text": ""
+            }
+           ]
+          },
+          {
+           "type": "li",
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "type": "link",
+             "data": {
+              "url": "https://youtu.be/HozAODxz8G0"
+             },
+             "children": [
+              {
+               "text": "Interlegis"
+              }
+             ]
+            },
+            {
+             "text": ""
+            }
+           ]
+          }
+         ]
+        }
+       ],
+       "plaintext": " Imoi\u00ea   Interlegis "
+      }
+     },
+     "blocks_layout":{
+      "items": [
+       "1278c10b-1a07-405f-bfb2-fb175e640a4f",
+       "3583b4d3-960c-415a-85c5-f8158d539226",
+       "84359eb3-f706-464a-8f6f-eccda6eaab8f",
+       "6702b635-3a82-44ec-8405-7afdc786b207",
+       "5f54e73b-9be2-46ab-95d0-7866e831ed8f",
+       "78e40720-dd91-4867-a2ae-ce06b39c6d45",
+       "a277b3a6-fd6b-4747-b224-984abe493922",
+       "9abbcfb2-9236-4def-ad73-fc3e08b291ad",
+       "5c423916-a1b0-4d36-bcf9-2bab94f0cfb2",
+       "c02b83d2-3f69-44bc-9ec4-5493414e3bf6",
+       "f13112e7-5f62-4437-95be-9433854cc368",
+       "50588104-fcf5-44f2-a12a-11c6b4edbf25",
+       "d18c0797-eabb-4706-8e67-7edc3a5cae32",
+       "3f7364df-30ef-4a1b-a8f0-1973c6bfdd94",
+       "5ffefd87-ec4a-48b6-843b-4e4cc924fd0a",
+       "4e99d930-a1e9-4ee7-9ee1-1f2f65fcdd34",
+       "ed527a83-c8cb-4395-b0d2-3873c31cb204",
+       "5ce3086f-5f11-4f9a-a323-6caea654b11e",
+       "72ca727b-845c-451b-891e-c053fc150da6",
+       "5ed756e6-e622-4a64-9c5a-0e42d37a7b58",
+       "242656bb-f2c8-43d2-b676-b18a5147e969",
+       "94dd9f5b-4be2-4fe2-93ba-5a18bbc610a5",
+       "482adae4-6ffa-433a-9c24-a14e64df1de1",
+       "502f81ea-3835-44f3-8d73-a9e69b005605",
+       "cc0aeaac-455d-4b95-b8fd-d969e5332570",
+       "2b38ec61-3929-44c3-ad69-4739e4a53b3c",
+       "c7f4f876-1f39-4c39-ae6e-8f13552c56b1",
+       "5e94ae2f-6a46-4bec-99f5-90f8b26a7d3d",
+       "3b21acb0-befd-4e29-8c23-06a2a8d93da7",
+       "4985ab3e-7c48-4e5d-9c5e-3dc75977b4ce",
+       "85443fe8-d112-4fe2-9ac4-7d19eace0cdf",
+       "4163d732-45dc-4335-b93a-0e8e18787ee2",
+       "68ad9578-ccc7-4831-95ec-f980dda1939e",
+       "4e4906b8-2235-41eb-83c9-7e340dfe1b81",
+       "c1f38f30-b319-4f08-a16d-f5b2ac7292ee",
+       "67e70f80-9cc0-436b-947c-618b2ffc9b64",
+       "44cf7d6d-aa99-4926-b98a-6a4c45b77a2a",
+       "741d84c6-3dae-432a-906c-536835a4fdb8"
+      ]
+     },
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "",
+    "type": "Document",
+    "id": "interacao",
+    "title": "Interação",
+    "description": "Como interagir na comunidade.",
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "interacao",
+    "type": "Document",
+    "id": "como-interagir",
+    "title": "Como interagir",
+    "description": "Como interagir na comunidade.",
+    "blocks":{
+      "23f12eb9-f2ef-4f8e-8ec0-8eaddffc55fc": {
+       "@type": "title"
+      },
+      "2a3693ca-8f6f-4268-b28f-2ff2dd457189": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "h2",
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "type": "link",
+           "data": {
+            "url": "https://discord.gg/QyPKgzzgpg"
+           },
+           "children": [
+            {
+             "text": "Discord"
+            }
+           ]
+          },
+          {
+           "text": ""
+          }
+         ]
+        }
+       ],
+       "plaintext": " Discord "
+      },
+      "cd0d29ea-8f2f-4973-a647-f5165a5535e3": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "type": "strong",
+           "children": [
+            {
+             "text": "Discord"
+            }
+           ]
+          },
+          {
+           "text": " \u00e9 um aplicativo de comunica\u00e7\u00e3o, que permite que as pessoas conversem por v\u00eddeo, voz e texto."
+          }
+         ]
+        }
+       ],
+       "plaintext": " Discord \u00e9 um aplicativo de comunica\u00e7\u00e3o, que permite que as pessoas conversem por v\u00eddeo, voz e texto."
+      },
+      "f55093f5-d66d-4f4c-b1b8-ab19d5734ec9": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": "A comunidade "
+          },
+          {
+           "type": "strong",
+           "children": [
+            {
+             "text": "GITEC"
+            }
+           ]
+          },
+          {
+           "text": " escolheu esta ferramenta para  possibilitar a troca de informa\u00e7\u00f5es sobre os v\u00e1rios assuntos que  permeiam uma Casa Legislativa, al\u00e9m de discutir sobre o desenvolvimento e  evolu\u00e7\u00e3o dos produtos "
+          },
+          {
+           "type": "link",
+           "data": {
+            "url": "https://www12.senado.leg.br/interlegis/produtos/salp"
+           },
+           "children": [
+            {
+             "text": "SAPL"
+            }
+           ]
+          },
+          {
+           "text": ", "
+          },
+          {
+           "type": "link",
+           "data": {
+            "url": "https://www12.senado.leg.br/interlegis/produtos/portal-modelo"
+           },
+           "children": [
+            {
+             "text": "Portal Modelo"
+            }
+           ]
+          },
+          {
+           "text": ", "
+          },
+          {
+           "type": "link",
+           "data": {
+            "url": "https://github.com/interlegis/saap"
+           },
+           "children": [
+            {
+             "text": "SAAP"
+            }
+           ]
+          },
+          {
+           "text": " e an\u00fancio de oficinas."
+          }
+         ]
+        }
+       ],
+       "plaintext": "A comunidade GITEC escolheu esta ferramenta para  possibilitar a troca de informa\u00e7\u00f5es sobre os v\u00e1rios assuntos que  permeiam uma Casa Legislativa, al\u00e9m de discutir sobre o desenvolvimento e  evolu\u00e7\u00e3o dos produtos SAPL , Portal Modelo , SAAP e an\u00fancio de oficinas."
+      },
+      "a731a911-9f15-4bec-9c96-f604fd9ad5bf": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": "Assista ao v\u00eddeo e "
+          },
+          {
+           "type": "link",
+           "data": {
+            "url": "https://discord.gg/QyPKgzzgpg"
+           },
+           "children": [
+            {
+             "text": "acesse"
+            }
+           ]
+          },
+          {
+           "text": " nossos canais para ficar por dentro do que est\u00e1 acontecendo na comunidade."
+          }
+         ]
+        }
+       ],
+       "plaintext": "Assista ao v\u00eddeo e acesse nossos canais para ficar por dentro do que est\u00e1 acontecendo na comunidade."
+      },
+      "125b6a49-95ed-4c43-8ea7-3a44c58694c5": {
+       "@type": "video",
+       "url": "https://youtu.be/8ZzJCg6Oel8"
+      },
+      "7d79cdab-a004-44df-8e61-05248bc1c67e": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "h2",
+         "children": [
+          {
+           "text": ""
+          },
+          {
+           "type": "link",
+           "data": {
+            "url": "https://www.youtube.com/channel/UCggZpGPjK5eF1vWoONIqIbw/"
+           },
+           "children": [
+            {
+             "text": "YouTube"
+            }
+           ]
+          },
+          {
+           "text": ""
+          }
+         ]
+        }
+       ],
+       "plaintext": " YouTube "
+      },
+      "d7d5fbfb-6ff6-40fc-8327-62884316fc7e": {
+       "@type": "slate",
+       "value": [
+        {
+         "type": "p",
+         "children": [
+          {
+           "text": "A comunidade "
+          },
+          {
+           "type": "strong",
+           "children": [
+            {
+             "text": "GITEC"
+            }
+           ]
+          },
+          {
+           "text": " agora tem um canal no "
+          },
+          {
+           "type": "link",
+           "data": {
+            "url": "https://www.youtube.com/channel/UCggZpGPjK5eF1vWoONIqIbw/"
+           },
+           "children": [
+            {
+             "text": "YouTube"
+            }
+           ]
+          },
+          {
+           "text": ".  Se voc\u00ea quer compartilhar seu conhecimento sobre alguma  ferramenta/plataforma/tecnologia que voc\u00ea implantou na sua C\u00e2mara e acha  que ser\u00e1 \u00fatil para outras C\u00e2maras, fa\u00e7a um v\u00eddeo para postarmos no  nosso canal."
+          }
+         ]
+        }
+       ],
+       "plaintext": "A comunidade GITEC agora tem um canal no YouTube .  Se voc\u00ea quer compartilhar seu conhecimento sobre alguma  ferramenta/plataforma/tecnologia que voc\u00ea implantou na sua C\u00e2mara e acha  que ser\u00e1 \u00fatil para outras C\u00e2maras, fa\u00e7a um v\u00eddeo para postarmos no  nosso canal."
+      }
+     },
+     "blocks_layout":{
+      "items": [
+       "23f12eb9-f2ef-4f8e-8ec0-8eaddffc55fc",
+       "2a3693ca-8f6f-4268-b28f-2ff2dd457189",
+       "cd0d29ea-8f2f-4973-a647-f5165a5535e3",
+       "f55093f5-d66d-4f4c-b1b8-ab19d5734ec9",
+       "a731a911-9f15-4bec-9c96-f604fd9ad5bf",
+       "125b6a49-95ed-4c43-8ea7-3a44c58694c5",
+       "7d79cdab-a004-44df-8e61-05248bc1c67e",
+       "d7d5fbfb-6ff6-40fc-8327-62884316fc7e"
+      ]
+     },
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  },
+  {
+    "_parent": "",
+    "type": "Link",
+    "id": "interlegis",
+    "title": "Programa Interlegis",
+    "description": "Informações sobre o Programa Interlegis.",
+    "remoteUrl": "https://www12.senado.leg.br/interlegis",
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": false
+  }
+]

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<metadata>
+  <version>20220805001</version>
+  <dependencies>
+    <dependency>profile-plone.volto:default</dependency>
+    <dependency>profile-collective.volto.cookieconsent:default</dependency>
+    <dependency>profile-collective.volto.dropdownmenu:default</dependency>
+  </dependencies>
+</metadata>

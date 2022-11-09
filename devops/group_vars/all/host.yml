@@ -1,0 +1,3 @@
+---
+hostname: 'gitec.interlegis.leg.br'
+fqdn: '{{ hostname }}.localhost'

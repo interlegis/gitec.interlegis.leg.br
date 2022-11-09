@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "gitec.interlegis@gmail.com",
+      "properties": {
+        "fullname": "Portal GITEC",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "gitec.interlegis.leg.br"
+    }
+  ],
+    "team": [
+  ]
+}

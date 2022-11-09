@@ -1,0 +1,138 @@
+[
+  {
+    "rootPath": "/",
+    "items": [
+      {
+        "title": "GITEC",
+        "visible": true,
+        "mode": "dropdown",
+        "linkUrl": ["bd4ffdabbebc472581ed593410090200"],
+        "blocks_layout": {
+          "items": [
+            "9a8a35dc-7e73-4991-974c-c1bc0e9cbb14"
+          ]
+        },
+        "blocks": {
+          "9a8a35dc-7e73-4991-974c-c1bc0e9cbb14": {
+            "@type": "slate",
+            "value": [
+              {
+                "type": "p", 
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "plaintext": ""
+          }
+        },
+        "navigationRoot": [
+          "9469069e25574a2289b8f42f30eebf52",
+          "bd4ffdabbebc472581ed593410090200",
+          "730cd954501f44a9af79d7f6e6b7ca52"
+        ]
+      },
+      {
+        "title": "EnGITEC",
+        "visible": true,
+        "mode": "dropdown",
+        "linkUrl": [],
+        "blocks_layout": {
+          "items": [
+            "87d011f7-1808-4ff7-ac6b-a217cdbc65fc"
+          ]
+        }, 
+        "blocks": {
+          "87d011f7-1808-4ff7-ac6b-a217cdbc65fc": {
+            "@type": "slate",
+            "value": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "plaintext": ""
+          }
+        },
+        "navigationRoot": [
+          "ed7c5465401f4c629f7805231ce85d66",
+          "b1e7666ba1b74e319aef6f86c9d0a071",
+          "296878fd91b24a8d80b59b8330bc7032",
+          "9f6951f373544c23a350407cef035f34",
+          "463894d4d8ca450eae49cca9c4d900c7"
+        ]
+      },
+      {
+        "title": "Desenvolvimento",
+        "visible": true,
+        "mode": "simpleLink",
+        "linkUrl": [
+          "264f2a6ce2ff4305a0a61139b0f5d4c8"
+        ],
+        "blocks_layout": {
+          "items": [
+            "947da04a-94d8-426c-96d0-1cdb8ce5285d"
+          ]
+        },
+        "blocks": {
+          "947da04a-94d8-426c-96d0-1cdb8ce5285d": {
+            "@type": "slate",
+            "value": [
+              {
+                "type": "p",
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ]
+              }
+            ],
+            "plaintext": ""
+          }
+        }
+      },
+      {
+        "title": "Intera\u00e7\u00e3o",
+        "visible": true,
+        "mode": "simpleLink",
+        "linkUrl": [
+          "223f1d76e9f94c87861afb9b3e450ac7"
+        ],
+        "blocks_layout": {
+          "items": [
+            "da6fa3ff-0807-4a07-8cb6-2bcf32934e6c"
+          ]
+        },
+        "blocks": {
+          "da6fa3ff-0807-4a07-8cb6-2bcf32934e6c": {
+            "@type": "slate"
+          }
+        }
+      },
+      {
+        "title": "Programa Interlegis",
+        "visible": true,
+        "mode": "simpleLink",
+        "linkUrl": [
+          "5809e9022d2f428bad8c634d8383e955"
+        ],
+        "blocks_layout": {
+          "items": [
+            "dec55f72-86cc-4cf1-8b75-e82d9b8e7372"
+          ]
+        },
+        "blocks": {
+          "dec55f72-86cc-4cf1-8b75-e82d9b8e7372": {
+            "@type": "slate"
+          }
+        }
+      }
+    ]
+  }
+]

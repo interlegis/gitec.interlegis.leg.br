@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<object name="portal_catalog">
+  <!-- Index
+  <index meta_type="FieldIndex"
+         name="industry"
+  >
+    <indexed_attr value="industry" />
+  </index>
+-->
+  <!-- Metadata
+  <column value="industry" />
+  -->
+  <index meta_type="FieldIndex"
+         name="recurrence"
+  >
+    <indexed_attr value="recurrence" />
+  </index>
+  <column value="recurrence" />
+</object>
