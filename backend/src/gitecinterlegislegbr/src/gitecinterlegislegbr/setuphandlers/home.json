@@ -1,446 +1,716 @@
 {
-   "blocks": {
-    "16e674b2-1dbe-4a30-a794-98c604b519ad": {
-     "@type": "heading",
-     "alignment": "left",
-     "heading": "Como se localizar no evento ",
-     "tag": "h2"
-    },
-    "3224b660-7da1-4c09-8a7b-1acfca752bfa": {
-     "@type": "__grid",
-     "columns": [
-      {
-       "@type": "image",
-       "alt": "",
-       "id": "d9b6c06e-f319-460a-b32a-31b6d3f7f6d1",
-       "size": "l",
-       "url": "resolveuid/52653d17e0aa4b23b4e3ef0dbc59fc6b"
-      },
-      {
-       "@type": "text",
-       "id": "8d21cef7-4f22-478d-9465-623e878645df",
-       "text": {
-        "blocks": [
-         {
-          "key": "arcf2",
-          "text": "Representa\u00e7o dos estados no 12\u00ba EnGITEC",
-          "type": "header-two",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": {}
-         },
-         {
-          "key": "2eadm",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": {}
-         },
-         {
-          "key": "1l3f3",
-          "text": "O estado com maior representa\u00e7\u00e3o foi Minas Gerais (29,73%), seguido de Roraima (10,81%), Paran\u00e1 (8,78%), Santa Catarina (7,43%), Mato Grosso (6,76%), Rio de Janeiro e Rond\u00f4nia (6,08%) e demais estados (Acre, Distrito Federal, Goi\u00e1s, Maranh\u00e3o, Par\u00e1, Para\u00edba, Piau\u00ed, Rio Grande do Sul e S\u00e3o Paulo). O evento tamb\u00e9m contou com a presen\u00e7a de representantes do Parlamento de Guin\u00e9 Bissau. Totalizando 148 participantes, alm da participa\u00e7o de 242 pessoas nas oficinas oferecidas.",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [
-           {
-            "offset": 395,
-            "length": 18,
-            "style": "BOLD"
-           }
-          ],
-          "entityRanges": [],
-          "data": {}
-         },
-         {
-          "key": "9vqq0",
-          "text": "",
-          "type": "unstyled",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": {}
-         },
-         {
-          "key": "5fbfh",
-          "text": "Veja as edi\u00e7es anteriores do evento.",
-          "type": "unordered-list-item",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [
-           {
-            "offset": 8,
-            "length": 17,
-            "key": 0
-           }
-          ],
-          "data": {}
-         },
-         {
-          "key": "5ba04",
-          "text": "Assista aos vdeos da ltima edi\u00e7o.",
-          "type": "unordered-list-item",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [
-           {
-            "offset": 0,
-            "length": 7,
-            "key": 1
-           }
-          ],
-          "data": {}
-         },
-         {
-          "key": "2uf96",
-          "text": "Junte-se  a ns no nosso canal do Discord.",
-          "type": "unordered-list-item",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [
-           {
-            "offset": 24,
-            "length": 17,
-            "key": 2
-           }
-          ],
-          "data": {}
-         },
-         {
-          "key": "cdn1b",
-          "text": "Ajude no desenvolvimento dos produtos.",
-          "type": "unordered-list-item",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [
-           {
-            "offset": 9,
-            "length": 15,
-            "key": 3
-           }
-          ],
-          "data": {}
-         },
-         {
-          "key": "8ojuv",
-          "text": "Marque-nos #InterlegisSomosTodosNos #EnGITECEuFui",
-          "type": "unordered-list-item",
-          "depth": 0,
-          "inlineStyleRanges": [],
-          "entityRanges": [],
-          "data": {}
-         }
-        ],
-        "entityMap": {
-         "0": {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-           "url": "resolveuid/9172f75538854adcb7c33c21a2f95175"
+  "110ea353-89b4-4b2b-8f2f-a9a169e73f97": {
+    "@type": "columnsBlock",
+    "data": {
+     "blocks": {
+      "7841f1b0-bea4-4980-b10e-7f0df5115853": {
+       "blocks": {
+        "76b3c219-059c-4648-baeb-d20c705e9cf9": {
+         "@type": "slate",
+         "plaintext": "Localize-se no nosso evento",
+         "value": [
+          {
+           "children": [
+            {
+             "text": "Localize-se no nosso evento"
+            }
+           ],
+           "type": "h2"
           }
-         },
-         "1": {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-           "url": "resolveuid/79a23234ab6c4861acd4b97574b1ef23"
-          }
-         },
-         "2": {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-           "url": "https://discord.gg/QyPKgzzgpg"
-          }
-         },
-         "3": {
-          "type": "LINK",
-          "mutability": "MUTABLE",
-          "data": {
-           "url": "resolveuid/a345d365f91442beace05f9fb9d89bb3"
-          }
-         }
-        }
-       }
-      }
-     ]
-    },
-    "45f4da9f-b48c-407a-8f26-500979389805": {
-     "@type": "slider"
-    },
-    "46d0ca18-3262-480e-a6f9-337bda1ffc06": {
-     "@type": "slider",
-     "slides": [
-      {
-       "@id": "365be69d-764a-4f9d-b906-69bc349bdac1"
-      }
-     ]
-    },
-    "4842820c-bd85-4a87-a915-f93b94c55623": {
-     "@type": "heading",
-     "alignment": "left",
-     "heading": "Depoimentos",
-     "tag": "h2"
-    },
-    "95bbe8ee-6350-4dea-87ba-5fe6afcfa3ef": {
-     "latitude": "-15.80556565569635",
-     "longitude": "-47.8427705463054",
-     "zoom": "14",
-     "height": "500px",
-     "@type": "leafletMap",
-     "markers": [
-      {
-       "@id": "c88eaf5a-92fb-48a1-bfda-954f0fe117f5",
-       "icon": "info",
-       "latitude": "-15.795898307632408",
-       "longitude": "-47.86454217329217",
-       "title": "Interlegis"
-      },
-      {
-       "@id": "99f17622-01a9-4543-a898-836e6faf3cb2",
-       "icon": "parking",
-       "latitude": "-15.795721593343123",
-       "longitude": "-47.84730108887753",
-       "title": "Tia Z\u00e9lia"
-      },
-      {
-       "@id": "eebac9d0-33e8-4d98-8c4c-eb998241bad3",
-       "icon": "default",
-       "latitude": "-15.8055656556964",
-       "longitude": "-47.8427705463054",
-       "title": "ISC"
-      }
-     ]
-    },
-    "cfeeb974-8186-45fc-8329-decb5a957bad": {
-     "@type": "columnsBlock",
-     "data": {
-      "blocks": {
-       "54593d3a-fd91-4fe7-8671-d1be32d6e837": {
-        "blocks": {
-         "1ac1e258-94e4-4b09-9329-9a78b1a34f16": {
-          "@type": "slate",
-          "plaintext": "\"O EnGITEC \u00e9 um encontro que veio contribuir muito com todas as  C\u00e2maras Municipais, espalhadas pelo nosso Brasil. \u00c9 um prazer imenso  poder participar desse momento, vivenciando e compartilhando  experi\u00eancias que fazem toda a diferen\u00e7a no exerc\u00edcio do mandato  parlamentar em nosso munic\u00edpio.\"",
-          "value": [
-           {
-            "children": [
-             {
-              "text": "\"O EnGITEC \u00e9 um encontro que veio contribuir muito com todas as  C\u00e2maras Municipais, espalhadas pelo nosso Brasil. \u00c9 um prazer imenso  poder participar desse momento, vivenciando e compartilhando  experi\u00eancias que fazem toda a diferen\u00e7a no exerc\u00edcio do mandato  parlamentar em nosso munic\u00edpio.\""
-             }
-            ],
-            "type": "p"
-           }
-          ]
-         },
-         "612d8587-0fd8-46f1-8673-7e8998406c4d": {
-          "@type": "slate",
-          "plaintext": " Vereadora Regiane Mattos, CM Boa Vista/RR ",
-          "value": [
-           {
-            "children": [
-             {
-              "text": "\n"
-             },
-             {
-              "children": [
-               {
-                "text": "Vereadora Regiane Mattos, CM Boa Vista/RR"
-               }
-              ],
-              "type": "em"
-             },
-             {
-              "text": ""
-             }
-            ],
-            "type": "p"
-           }
-          ]
-         }
-        },
-        "blocks_layout": {
-         "items": [
-          "1ac1e258-94e4-4b09-9329-9a78b1a34f16",
-          "612d8587-0fd8-46f1-8673-7e8998406c4d"
          ]
         },
-        "settings": {
-         "backgroundColor": "#efefef"
+        "e41a0d0d-47d2-4344-8d32-605b797b92d8": {
+         "latitude": "-15.8055656556964",
+         "longitude": "-47.8427705463054",
+         "zoom": "14",
+         "height": "500px",
+         "@type": "leafletMap",
+         "markers": [
+          {
+           "@id": "8b69d707-d9cf-4943-8d7b-aed890b211a6",
+           "icon": null,
+           "latitude": "-15.7958983076324",
+           "longitude": "-47.8645421732922",
+           "title": "Interlegis"
+          },
+          {
+           "@id": "f1299c31-92ed-42a3-b88f-6c2d348900b7",
+           "icon": null,
+           "latitude": "-15.7957215933431",
+           "longitude": "-47.8427705463054",
+           "title": "Tia Z\u00e9lia"
+          },
+          {
+           "@id": "9fbc1b12-9528-4b84-9766-8ee8c07042ba",
+           "icon": "flag",
+           "latitude": "-15.8055656556964",
+           "longitude": "-47.8427705463054",
+           "title": "ISC"
+          }
+         ]
         }
        },
-       "808d256a-6439-49fb-853c-a81f696a5337": {
-        "blocks": {
-         "6861698a-2484-4f72-8731-5299d950e1b7": {
-          "@type": "slate",
-          "plaintext": " Presidente R\u00f4molo Quint\u00e3o Donadio, CM Espera Feliz/MG ",
-          "value": [
-           {
-            "children": [
-             {
-              "text": ""
-             },
-             {
-              "children": [
-               {
-                "text": "Presidente R\u00f4molo Quint\u00e3o Donadio, CM Espera Feliz/MG"
-               }
-              ],
-              "type": "em"
-             },
-             {
-              "text": ""
-             }
-            ],
-            "type": "p"
-           }
-          ]
-         },
-         "9b07baf9-91ee-43b4-9218-54f9ceada437": {
-          "@type": "slate",
-          "plaintext": "\"N\u00f3s que estamos vereadores, neste momento estou  como Presidente da C\u00e2mara de Espera Feliz/MG, mas sabemos de fato que o  Legislativo s\u00f3 anda e s\u00f3 acontece por causa dos servidores. Que cada  presidente de C\u00e2mara possa entender isso, que cada vereador possa  entender: se n\u00e3o fossem os servidores, o que seriam dos vereadores.\"",
-          "value": [
-           {
-            "children": [
-             {
-              "text": "\"N\u00f3s que estamos vereadores, neste momento estou  como Presidente da C\u00e2mara de Espera Feliz/MG, mas sabemos de fato que o  Legislativo s\u00f3 anda e s\u00f3 acontece por causa dos servidores. Que cada  presidente de C\u00e2mara possa entender isso, que cada vereador possa  entender: se n\u00e3o fossem os servidores, o que seriam dos vereadores.\""
-             }
-            ],
-            "type": "p"
-           }
-          ]
-         }
-        },
-        "blocks_layout": {
-         "items": [
-          "9b07baf9-91ee-43b4-9218-54f9ceada437",
-          "6861698a-2484-4f72-8731-5299d950e1b7"
-         ]
-        },
-        "settings": {
-         "backgroundColor": "#c1e1c5"
-        }
-       },
-       "fe281a6d-8d2e-46cc-ba65-76712d20cf38": {
-        "blocks": {
-         "7d4692a5-b82d-4f0a-bef4-c8fe868af442": {
-          "@type": "slate",
-          "plaintext": "  ",
-          "value": [
-           {
-            "children": [
-             {
-              "text": ""
-             },
-             {
-              "children": [
-               {
-                "text": ""
-               }
-              ],
-              "type": "em"
-             },
-             {
-              "text": ""
-             }
-            ],
-            "type": "p"
-           }
-          ]
-         },
-         "90b20a04-d974-4f87-9eef-5324da8b9023": {
-          "@type": "slate",
-          "plaintext": "\"Como servidora do Poder Legislativo h\u00e1 mais de 22 anos,  posso afirmar que os produtos Interlegis proporcionaram um divisor de  \u00e1guas na C\u00e2mara de Pato Branco, Paran\u00e1. Trouxe modernidade, maior  transpar\u00eancia e efici\u00eancia. O Sistema de Apoio ao Processo Legislativo -  Sapl \u00e9 uma ferramenta imprescind\u00edvel para o trabalho legislativo.  Participar do Engitec foi uma honra, um encontro que proporcionou  momentos inesquec\u00edveis de atualiza\u00e7\u00e3o profissional, com conte\u00fados que  favoreceram a troca de experi\u00eancias com os colegas, servidores das  C\u00e2maras Municipais de todo o Brasil.\"",
-          "value": [
-           {
-            "children": [
-             {
-              "text": "\"Como servidora do Poder Legislativo h\u00e1 mais de 22 anos,  posso afirmar que os produtos Interlegis proporcionaram um divisor de  \u00e1guas na C\u00e2mara de Pato Branco, Paran\u00e1. Trouxe modernidade, maior  transpar\u00eancia e efici\u00eancia. O Sistema de Apoio ao Processo Legislativo -  Sapl \u00e9 uma ferramenta imprescind\u00edvel para o trabalho legislativo.  Participar do Engitec foi uma honra, um encontro que proporcionou  momentos inesquec\u00edveis de atualiza\u00e7\u00e3o profissional, com conte\u00fados que  favoreceram a troca de experi\u00eancias com os colegas, servidores das  C\u00e2maras Municipais de todo o Brasil.\""
-             }
-            ],
-            "type": "p"
-           }
-          ]
-         },
-         "9a4cb1ad-7d42-4aae-9859-f5d4e972413e": {
-          "@type": "slate",
-          "plaintext": " Eliana Scariot  Servidora da C\u00e2mara Municipal de Pato Branco, Paran\u00e1 ",
-          "value": [
-           {
-            "children": [
-             {
-              "text": ""
-             },
-             {
-              "children": [
-               {
-                "text": "Eliana Scariot"
-               }
-              ],
-              "type": "em"
-             },
-             {
-              "text": "\n"
-             },
-             {
-              "children": [
-               {
-                "text": "Servidora da C\u00e2mara Municipal de Pato Branco, Paran\u00e1"
-               }
-              ],
-              "type": "em"
-             },
-             {
-              "text": ""
-             }
-            ],
-            "type": "p"
-           }
-          ]
-         }
-        },
-        "blocks_layout": {
-         "items": [
-          "90b20a04-d974-4f87-9eef-5324da8b9023",
-          "9a4cb1ad-7d42-4aae-9859-f5d4e972413e",
-          "7d4692a5-b82d-4f0a-bef4-c8fe868af442"
-         ]
-        },
-        "settings": {
-         "backgroundColor": "#c4def6"
-        }
+       "blocks_layout": {
+        "items": [
+         "76b3c219-059c-4648-baeb-d20c705e9cf9",
+         "e41a0d0d-47d2-4344-8d32-605b797b92d8"
+        ]
        }
       },
-      "blocks_layout": {
-       "items": [
-        "54593d3a-fd91-4fe7-8671-d1be32d6e837",
-        "808d256a-6439-49fb-853c-a81f696a5337",
-        "fe281a6d-8d2e-46cc-ba65-76712d20cf38"
-       ]
+      "fe7b105a-d0fe-431c-8bd4-e86559d23b1b": {
+       "blocks": {
+        "099d0dda-0d28-4b2c-ae49-2fd6ebc31a38": {
+         "@type": "slate",
+         "plaintext": " Canal no Discord ",
+         "value": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Canal no Discord"
+              }
+             ],
+             "data": {
+              "url": "https://discord.gg/QyPKgzzgpg"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "h2"
+          }
+         ]
+        },
+        "27e09bf7-bfdb-49b5-818b-245eca17adec": {
+         "@type": "slate",
+         "plaintext": "Visite nossas Redes Sociais",
+         "value": [
+          {
+           "children": [
+            {
+             "text": "Visite nossas Redes Sociais"
+            }
+           ],
+           "type": "h2"
+          }
+         ]
+        },
+        "59ff5ce8-f0da-4797-a2b4-1d9a78e282d9": {
+         "@type": "slate",
+         "plaintext": "Ainda com d\u00favida? Contacte-nos via e-mail .",
+         "value": [
+          {
+           "children": [
+            {
+             "text": "Ainda com d\u00favida? Contacte-nos via "
+            },
+            {
+             "children": [
+              {
+               "text": "e-mail"
+              }
+             ],
+             "data": {
+              "url": "mailto:gitec.interlegis@gmail.com"
+             },
+             "type": "link"
+            },
+            {
+             "text": "."
+            }
+           ],
+           "type": "h2"
+          }
+         ]
+        },
+        "5a258929-1e0e-4735-bb64-d455b6f61f88": {
+         "@type": "slate",
+         "plaintext": " YouTube ",
+         "value": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "YouTube"
+              }
+             ],
+             "data": {
+              "url": "https://www.youtube.com/channel/UCggZpGPjK5eF1vWoONIqIbw/"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "h3"
+          }
+         ]
+        },
+        "8c1bd801-efbf-413e-948a-842a08e709ee": {
+         "@type": "slate",
+         "plaintext": " FaceBook ",
+         "value": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "FaceBook"
+              }
+             ],
+             "data": {
+              "url": "https://facebook.com"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "h3"
+          }
+         ]
+        },
+        "f5a3fc4e-d098-4202-9a9a-aabc7e68055d": {
+         "@type": "slate",
+         "plaintext": " Instagram ",
+         "value": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Instagram"
+              }
+             ],
+             "data": {
+              "url": "https://instagram.com"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "h3"
+          }
+         ]
+        },
+        "f73c3555-5bd9-4a19-9ae3-2bdb262d0305": {
+         "@type": "slate",
+         "plaintext": " Perguntas frequentes ",
+         "value": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Perguntas frequentes"
+              }
+             ],
+             "data": {
+              "url": "https://www.engitec//perguntas-frequentes"
+             },
+             "type": "link"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "h2"
+          }
+         ]
+        }
+       },
+       "blocks_layout": {
+        "items": [
+         "27e09bf7-bfdb-49b5-818b-245eca17adec",
+         "8c1bd801-efbf-413e-948a-842a08e709ee",
+         "f5a3fc4e-d098-4202-9a9a-aabc7e68055d",
+         "5a258929-1e0e-4735-bb64-d455b6f61f88",
+         "099d0dda-0d28-4b2c-ae49-2fd6ebc31a38",
+         "f73c3555-5bd9-4a19-9ae3-2bdb262d0305",
+         "59ff5ce8-f0da-4797-a2b4-1d9a78e282d9"
+        ]
+       }
       }
      },
-     "gridCols": [
-      "oneThird",
-      "oneThird",
-      "oneThird"
-     ],
-     "gridSize": 12
+     "blocks_layout": {
+      "items": [
+       "7841f1b0-bea4-4980-b10e-7f0df5115853",
+       "fe7b105a-d0fe-431c-8bd4-e86559d23b1b"
+      ]
+     }
     },
-    "e4760ed5-8e46-447d-be0d-42235cc86667": {
-     "@type": "title"
-    }
+    "gridCols": [
+     "halfWidth",
+     "halfWidth"
+    ],
+    "gridSize": 12
+   },
+   "3224b660-7da1-4c09-8a7b-1acfca752bfa": {
+    "@type": "__grid",
+    "columns": [
+     {
+      "@type": "text",
+      "id": "8d21cef7-4f22-478d-9465-623e878645df",
+      "text": {
+       "blocks": [
+        {
+         "key": "arcf2",
+         "text": "Representa\u00e7\u00e3o dos estados no 12\u00ba EnGITEC",
+         "type": "header-two",
+         "depth": 0,
+         "inlineStyleRanges": [],
+         "entityRanges": [],
+         "data": {}
+        },
+        {
+         "key": "2eadm",
+         "text": "",
+         "type": "unstyled",
+         "depth": 0,
+         "inlineStyleRanges": [],
+         "entityRanges": [],
+         "data": {}
+        },
+        {
+         "key": "1l3f3",
+         "text": "O estado com maior representa\u00e7\u00e3o foi Minas Gerais (29,73%), seguido de Roraima (10,81%), Paran\u00e1 (8,78%), Santa Catarina (7,43%), Mato Grosso (6,76%), Rio de Janeiro e Rond\u00f4nia (6,08%) e demais estados (Acre, Distrito Federal, Goi\u00e1s, Maranh\u00e3o, Par\u00e1, Para\u00edba, Piau\u00ed, Rio Grande do Sul e S\u00e3o Paulo). O evento tamb\u00e9m contou com a presen\u00e7a de representantes do Parlamento de Guin\u00e9 Bissau. Totalizando 148 participantes, alm da participa\u00e7o de 242 pessoas nas oficinas oferecidas.",
+         "type": "unstyled",
+         "depth": 0,
+         "inlineStyleRanges": [
+          {
+           "offset": 395,
+           "length": 18,
+           "style": "BOLD"
+          }
+         ],
+         "entityRanges": [],
+         "data": {}
+        },
+        {
+         "key": "5fbfh",
+         "text": "    Veja as edi\u00e7\u00f5es anteriores do evento.",
+         "type": "unordered-list-item",
+         "depth": 0,
+         "inlineStyleRanges": [],
+         "entityRanges": [
+          {
+           "offset": 12,
+           "length": 7,
+           "key": 0
+          }
+         ],
+         "data": {}
+        },
+        {
+         "key": "9cboe",
+         "text": "    Assista aos v\u00eddeos da \u00faltima edi\u00e7\u00e3o.",
+         "type": "unordered-list-item",
+         "depth": 0,
+         "inlineStyleRanges": [],
+         "entityRanges": [
+          {
+           "offset": 16,
+           "length": 6,
+           "key": 1
+          }
+         ],
+         "data": {}
+        },
+        {
+         "key": "1jc8q",
+         "text": "    Junte-se a n\u00f3s no nosso canal do Discord.",
+         "type": "unordered-list-item",
+         "depth": 0,
+         "inlineStyleRanges": [],
+         "entityRanges": [
+          {
+           "offset": 37,
+           "length": 7,
+           "key": 2
+          }
+         ],
+         "data": {}
+        },
+        {
+         "key": "dn2f6",
+         "text": "    Ajude no desenvolvimento dos produtos.",
+         "type": "unordered-list-item",
+         "depth": 0,
+         "inlineStyleRanges": [],
+         "entityRanges": [
+          {
+           "offset": 13,
+           "length": 15,
+           "key": 3
+          }
+         ],
+         "data": {}
+        },
+        {
+         "key": "1j1tg",
+         "text": "    Marque-nos #InterlegisSomosTodosNos #EnGITECEuFui",
+         "type": "unordered-list-item",
+         "depth": 0,
+         "inlineStyleRanges": [],
+         "entityRanges": [],
+         "data": {}
+        }
+       ],
+       "entityMap": {
+        "0": {
+         "type": "LINK",
+         "mutability": "MUTABLE",
+         "data": {
+          "url": "resolveuid/1eb0d3e1f54949ccad577297a1ef8766"
+         }
+        },
+        "1": {
+         "type": "LINK",
+         "mutability": "MUTABLE",
+         "data": {
+          "url": "resolveuid/e89bb91cf79243b8ab330a5d1a56b070"
+         }
+        },
+        "2": {
+         "type": "LINK",
+         "mutability": "MUTABLE",
+         "data": {
+          "url": "https://discord.gg/QyPKgzzgpg"
+         }
+        },
+        "3": {
+         "type": "LINK",
+         "mutability": "MUTABLE",
+         "data": {
+          "url": "resolveuid/beb7f49a66d94531b4be9970eda6c8ee"
+         }
+        }
+       }
+      }
+     },
+     {
+      "@type": "image",
+      "alt": "",
+      "id": "d9b6c06e-f319-460a-b32a-31b6d3f7f6d1",
+      "size": "l",
+      "url": "resolveuid/062dfb17a40340f0966874c7a7d7f846"
+     }
+    ]
+   },
+   "45f4da9f-b48c-407a-8f26-500979389805": {
+    "@type": "slider"
+   },
+   "46d0ca18-3262-480e-a6f9-337bda1ffc06": {
+    "@type": "slider",
+    "slides": [
+     {
+      "@id": "365be69d-764a-4f9d-b906-69bc349bdac1"
+     }
+    ]
+   },
+   "4842820c-bd85-4a87-a915-f93b94c55623": {
+    "@type": "heading",
+    "alignment": "left",
+    "heading": "Depoimentos",
+    "tag": "h2"
+   },
+   "7c078f65-65c0-40a3-82cb-b63812933dbc": {
+    "@type": "slate",
+    "plaintext": "",
+    "value": [
+     {
+      "children": [
+       {
+        "text": ""
+       }
+      ],
+      "type": "p"
+     }
+    ]
+   },
+   "8c3ed66f-4ca0-4f3a-988e-e3e81bf201dd": {
+    "@type": "separator"
+   },
+   "cfeeb974-8186-45fc-8329-decb5a957bad": {
+    "@type": "columnsBlock",
+    "data": {
+     "blocks": {
+      "54593d3a-fd91-4fe7-8671-d1be32d6e837": {
+       "blocks": {
+        "1ac1e258-94e4-4b09-9329-9a78b1a34f16": {
+         "@type": "slate",
+         "plaintext": "\"O EnGITEC \u00e9 um encontro que veio contribuir muito com todas as  C\u00e2maras Municipais, espalhadas pelo nosso Brasil. \u00c9 um prazer imenso  poder participar desse momento, vivenciando e compartilhando  experi\u00eancias que fazem toda a diferen\u00e7a no exerc\u00edcio do mandato  parlamentar em nosso munic\u00edpio.\"",
+         "value": [
+          {
+           "children": [
+            {
+             "text": "\"O EnGITEC \u00e9 um encontro que veio contribuir muito com todas as  C\u00e2maras Municipais, espalhadas pelo nosso Brasil. \u00c9 um prazer imenso  poder participar desse momento, vivenciando e compartilhando  experi\u00eancias que fazem toda a diferen\u00e7a no exerc\u00edcio do mandato  parlamentar em nosso munic\u00edpio.\""
+            }
+           ],
+           "type": "p"
+          }
+         ]
+        },
+        "612d8587-0fd8-46f1-8673-7e8998406c4d": {
+         "@type": "slate",
+         "plaintext": " Vereadora Regiane Mattos, CM Boa Vista/RR ",
+         "value": [
+          {
+           "children": [
+            {
+             "text": "\n"
+            },
+            {
+             "children": [
+              {
+               "text": "Vereadora Regiane Mattos, CM Boa Vista/RR"
+              }
+             ],
+             "type": "em"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "p"
+          }
+         ]
+        }
+       },
+       "blocks_layout": {
+        "items": [
+         "1ac1e258-94e4-4b09-9329-9a78b1a34f16",
+         "612d8587-0fd8-46f1-8673-7e8998406c4d"
+        ]
+       },
+       "settings": {
+        "backgroundColor": "#efefef"
+       }
+      },
+      "808d256a-6439-49fb-853c-a81f696a5337": {
+       "blocks": {
+        "6861698a-2484-4f72-8731-5299d950e1b7": {
+         "@type": "slate",
+         "plaintext": " Presidente R\u00f4molo Quint\u00e3o Donadio, CM Espera Feliz/MG ",
+         "value": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Presidente R\u00f4molo Quint\u00e3o Donadio, CM Espera Feliz/MG"
+              }
+             ],
+             "type": "em"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "p"
+          }
+         ]
+        },
+        "9b07baf9-91ee-43b4-9218-54f9ceada437": {
+         "@type": "slate",
+         "plaintext": "\"N\u00f3s que estamos vereadores, neste momento estou  como Presidente da C\u00e2mara de Espera Feliz/MG, mas sabemos de fato que o  Legislativo s\u00f3 anda e s\u00f3 acontece por causa dos servidores. Que cada  presidente de C\u00e2mara possa entender isso, que cada vereador possa  entender: se n\u00e3o fossem os servidores, o que seriam dos vereadores.\"",
+         "value": [
+          {
+           "children": [
+            {
+             "text": "\"N\u00f3s que estamos vereadores, neste momento estou  como Presidente da C\u00e2mara de Espera Feliz/MG, mas sabemos de fato que o  Legislativo s\u00f3 anda e s\u00f3 acontece por causa dos servidores. Que cada  presidente de C\u00e2mara possa entender isso, que cada vereador possa  entender: se n\u00e3o fossem os servidores, o que seriam dos vereadores.\""
+            }
+           ],
+           "type": "p"
+          }
+         ]
+        }
+       },
+       "blocks_layout": {
+        "items": [
+         "9b07baf9-91ee-43b4-9218-54f9ceada437",
+         "6861698a-2484-4f72-8731-5299d950e1b7"
+        ]
+       },
+       "settings": {
+        "backgroundColor": "#c1e1c5"
+       }
+      },
+      "fe281a6d-8d2e-46cc-ba65-76712d20cf38": {
+       "blocks": {
+        "6790d342-45e7-4e59-883d-678962695ef2": {
+         "@type": "slate",
+         "plaintext": "servidores das  C\u00e2maras Municipais de todo o Brasil.\"",
+         "value": [
+          {
+           "children": [
+            {
+             "text": "servidores das  C\u00e2maras Municipais de todo o Brasil.\""
+            }
+           ],
+           "type": "p"
+          }
+         ]
+        },
+        "7d4692a5-b82d-4f0a-bef4-c8fe868af442": {
+         "@type": "slate",
+         "plaintext": "  ",
+         "value": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": ""
+              }
+             ],
+             "type": "em"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "p"
+          }
+         ]
+        },
+        "90b20a04-d974-4f87-9eef-5324da8b9023": {
+         "@type": "slate",
+         "plaintext": "\"Como servidora do Poder Legislativo h\u00e1 mais de 22 anos,  posso afirmar que os produtos Interlegis proporcionaram um divisor de  \u00e1guas na C\u00e2mara de Pato Branco, Paran\u00e1. Trouxe modernidade, maior  transpar\u00eancia e efici\u00eancia. O Sistema de Apoio ao Processo Legislativo -  Sapl \u00e9 uma ferramenta imprescind\u00edvel para o trabalho legislativo.  Participar do Engitec foi uma honra, um encontro que proporcionou  momentos inesquec\u00edveis de atualiza\u00e7\u00e3o profissional, com conte\u00fados que  favoreceram a troca de experi\u00eancias com os colegas,",
+         "value": [
+          {
+           "children": [
+            {
+             "text": "\"Como servidora do Poder Legislativo h\u00e1 mais de 22 anos,  posso afirmar que os produtos Interlegis proporcionaram um divisor de  \u00e1guas na C\u00e2mara de Pato Branco, Paran\u00e1. Trouxe modernidade, maior  transpar\u00eancia e efici\u00eancia. O Sistema de Apoio ao Processo Legislativo -  Sapl \u00e9 uma ferramenta imprescind\u00edvel para o trabalho legislativo.  Participar do Engitec foi uma honra, um encontro que proporcionou  momentos inesquec\u00edveis de atualiza\u00e7\u00e3o profissional, com conte\u00fados que  favoreceram a troca de experi\u00eancias com os colegas, "
+            }
+           ],
+           "type": "p"
+          }
+         ]
+        },
+        "9a4cb1ad-7d42-4aae-9859-f5d4e972413e": {
+         "@type": "slate",
+         "plaintext": " Eliana Scariot  Servidora da C\u00e2mara Municipal de Pato Branco, Paran\u00e1 ",
+         "value": [
+          {
+           "children": [
+            {
+             "text": ""
+            },
+            {
+             "children": [
+              {
+               "text": "Eliana Scariot"
+              }
+             ],
+             "type": "em"
+            },
+            {
+             "text": "\n"
+            },
+            {
+             "children": [
+              {
+               "text": "Servidora da C\u00e2mara Municipal de Pato Branco, Paran\u00e1"
+              }
+             ],
+             "type": "em"
+            },
+            {
+             "text": ""
+            }
+           ],
+           "type": "p"
+          }
+         ]
+        }
+       },
+       "blocks_layout": {
+        "items": [
+         "90b20a04-d974-4f87-9eef-5324da8b9023",
+         "6790d342-45e7-4e59-883d-678962695ef2",
+         "9a4cb1ad-7d42-4aae-9859-f5d4e972413e",
+         "7d4692a5-b82d-4f0a-bef4-c8fe868af442"
+        ]
+       },
+       "settings": {
+        "backgroundColor": "#c4def6"
+       }
+      }
+     },
+     "blocks_layout": {
+      "items": [
+       "54593d3a-fd91-4fe7-8671-d1be32d6e837",
+       "808d256a-6439-49fb-853c-a81f696a5337",
+       "fe281a6d-8d2e-46cc-ba65-76712d20cf38"
+      ]
+     }
+    },
+    "gridCols": [
+     "oneThird",
+     "oneThird",
+     "oneThird"
+    ],
+    "gridSize": 12
+   },
+   "e4760ed5-8e46-447d-be0d-42235cc86667": {
+    "@type": "title"
+   },
+   "b3299e3d-a9b8-4f0d-aae8-f962731e5129": {
+    "@type": "slate",
+    "value": [
+     {
+      "type": "p",
+      "children": [
+       {
+        "text": ""
+       }
+      ]
+     }
+    ],
+    "plaintext": ""
    },
    "blocks_layout": {
     "items": [
-     "e4760ed5-8e46-447d-be0d-42235cc86667",
-     "46d0ca18-3262-480e-a6f9-337bda1ffc06",
-     "3224b660-7da1-4c09-8a7b-1acfca752bfa",
-     "4842820c-bd85-4a87-a915-f93b94c55623",
-     "cfeeb974-8186-45fc-8329-decb5a957bad",
-     "16e674b2-1dbe-4a30-a794-98c604b519ad",
-     "95bbe8ee-6350-4dea-87ba-5fe6afcfa3ef"
-    ]
+      "e4760ed5-8e46-447d-be0d-42235cc86667",
+      "46d0ca18-3262-480e-a6f9-337bda1ffc06",
+      "b3299e3d-a9b8-4f0d-aae8-f962731e5129",
+      "3224b660-7da1-4c09-8a7b-1acfca752bfa",
+      "4842820c-bd85-4a87-a915-f93b94c55623",
+      "cfeeb974-8186-45fc-8329-decb5a957bad",
+      "8c3ed66f-4ca0-4f3a-988e-e3e81bf201dd",
+      "7c078f65-65c0-40a3-82cb-b63812933dbc",
+      "110ea353-89b4-4b2b-8f2f-a9a169e73f97"
+     ]
    },
    "title": "Portal da Comunidade GITEC"
  }
