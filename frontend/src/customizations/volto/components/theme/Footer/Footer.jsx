@@ -30,6 +30,7 @@
    const { settings } = config;
    return (
     <Segment className="footer-wrapper">
+    <div id="footer">  
     <div className="first-footer">
       <Segment className="portal-footer">
         <div className="colophon-section">
@@ -147,6 +148,7 @@
           </a>
         </p>
       </div>
+    </div>
     </div>
   </Segment>  
    );
