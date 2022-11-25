@@ -7,6 +7,12 @@
  import { Container, Segment } from 'semantic-ui-react';
  import PropTypes from 'prop-types';
  import { connect } from 'react-redux';
+ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import {
+  faFacebookF,
+  faInstagram,
+  faYoutube,
+} from '@fortawesome/free-brands-svg-icons';
  
  import {
    Anontools,
@@ -52,15 +58,15 @@
   <nav class="Triad navbar_global">
     <div>
       <div class="u-hideLower">
-        <div class="Rail Rail--fenced"><a class="link link-deep" href="#view" accesskey="1">Ir para o conteúdo principal</a><a class="link link-deep" href="#navigation" accesskey="2">Menu</a><a class="link link-deep" href="#footer" accesskey="3">Rodapé</a></div>
+        <div class="Rail Rail--fenced"><a class="link link-deep" href="#view" accesskey="1">Ir para o conteúdo principal</a><a class="link link-deep" href="#search" accesskey="2">Busca</a><a class="link link-deep" href="#footer" accesskey="3">Rodapé</a></div>
       </div>
     </div>
     <div>
       <div class="u-hideUpper"><a class="navbar-icons btn btn-secondary" href="#search" title="Buscar"><i class="fas fa-search"></i></a></div>
       <div class="u-hideLower">
         <ul class="flex-unstyled li-spacer">
-          <li><a class="flex-item--center link link-deep" href="#" title="Fonte maior">A+</a></li>
-          <li><a class="flex-item--center link link-deep" href="#" title="Fonte menor">A-</a></li>
+          <li><a class="flex-item--center link link-deep" href="javascript:setBaseFontSize('',1);" title="Fonte normal">A</a></li>
+          <li><a class="flex-item--center link link-deep" href="javascript:setBaseFontSize('largeText',%201);" title="Fonte maior">A+</a></li>
           <li><a class="flex-item--center link link-deep" href="acessibilidade" title="Acessibilidade">Acessibilidade</a></li>
           <li class="fence--solo"></li>
           <li><a class="flex-item--center link link-deep" href="#" title="Contraste">Contraste</a></li>
@@ -77,16 +83,18 @@
         <Navigation pathname={this.props.pathname} />    
       </div>
       <div class="control_item control_item--3 justify-content-center">
-       {/*<ul class="fence fence--xl fence-border--lg fence-color--cousin">
-          <li><a class="link link-deep--facebook" href="https://www.facebook.com/interlegisonline/"><i class="fab fa-facebook"></i></a></li>
-          <li><a class="link link-deep--instagram" href="https://www.instagram.com/interlegis_/"><i class="fab fa-instagram"></i></a></li>
-          <li><a class="link link-deep--youtube" href="https://www.youtube.com/channel/UCggZpGPjK5eF1vWoONIqIbw/"><i class="fab fa-youtube"></i></a></li>
-     </ul>*/}
+       <ul class="fence fence--xl fence-border--lg fence-color--cousin">
+          <li><a class="link link-deep--facebook" href="https://www.facebook.com/interlegisonline/"><FontAwesomeIcon icon={faFacebookF} /></a></li>
+          <li><a class="link link-deep--instagram" href="https://www.instagram.com/interlegis_/"><FontAwesomeIcon icon={faInstagram} /></a></li>
+          <li><a class="link link-deep--youtube" href="https://www.youtube.com/channel/UCggZpGPjK5eF1vWoONIqIbw/"><FontAwesomeIcon icon={faYoutube} /></a></li>
+     </ul>
       </div>
+      <div id="search">
       <div className="tools-search-wrapper">
         <div className="search">
           <SearchWidget />
         </div>
+     </div>
      </div>
     </nav>
   </div>
