@@ -12,8 +12,12 @@ import {
   faFacebookF,
   faInstagram,
   faYoutube,
-} from '@fortawesome/free-brands-svg-icons';
- 
+  faAccessibleIcon
+} from '@fortawesome/free-brands-svg-icons'; 
+import {
+  faCircle,
+  faHands
+} from '@fortawesome/free-solid-svg-icons'; 
  import {
    Anontools,
    LanguageSelector,
@@ -67,11 +71,9 @@ import {
         <ul class="flex-unstyled li-spacer">
           <li><a class="flex-item--center link link-deep" href="javascript:setBaseFontSize('',1);" title="Fonte normal">A</a></li>
           <li><a class="flex-item--center link link-deep" href="javascript:setBaseFontSize('largeText',%201);" title="Fonte maior">A+</a></li>
-          <li><a class="flex-item--center link link-deep" href="acessibilidade" title="Acessibilidade">Acessibilidade</a></li>
-          <li class="fence--solo"></li>
-          <li><a class="flex-item--center link link-deep" href="#" title="Contraste">Contraste</a></li>
-          <li class="fence--solo"></li>
-          <li><a class="flex-item--center link link-deep js-vlibras" href="#" role="button" title="VLibras">VLibras</a></li>
+          <li><a class="flex-item--center link link-deep" href="acessibilidade" title="Acessibilidade"><FontAwesomeIcon icon={faAccessibleIcon} />&nbsp;Acessibilidade</a></li>
+          <li><a class="flex-item--center link link-deep" href="#" title="Contraste"><FontAwesomeIcon icon={faCircle} />&nbsp;Contraste</a></li>
+          <li><a class="flex-item--center link link-deep js-vlibras" href="https://www.gov.br/governodigital/pt-br/vlibras" role="button" title="VLibras"><FontAwesomeIcon icon={faHands} />&nbsp;VLibras</a></li>
         </ul>
       </div>
     </div>
