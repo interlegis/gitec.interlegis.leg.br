@@ -33,9 +33,6 @@
     <div id="footer">  
     <div className="first-footer">
       <Segment className="portal-footer">
-        <div className="colophon-section">
-          <div className="section-centered">
-            <div className="two-tables">
               <Table className="left-table">
                 <Table.Header>
                   <Table.Row>
@@ -109,9 +106,7 @@
                   </Table.Row>            
                 </Table.Body>
               </Table>
-            </div>
-          </div>
-        </div>
+
       </Segment>
     </div>
     <div className="footer-colophon">
