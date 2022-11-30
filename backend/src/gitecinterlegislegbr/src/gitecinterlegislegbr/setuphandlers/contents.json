@@ -2606,5 +2606,492 @@
       "publish"
     ],
     "exclude_from_nav": false
+  },
+  {
+    "_parent": "",
+    "type": "Document",
+    "id": "acessibilidade",
+    "title": "Acessibilidade",
+    "description": "Informações sobre acessibilidade.",
+    "blocks":{
+      "0493d9c7-3200-480f-ba2d-43abcf8c4329": {
+        "@type": "slate",
+        "plaintext": "O VLibras \u00e9 uma  su\u00edte de ferramentas utilizadas na tradu\u00e7\u00e3o autom\u00e1tica do Portugu\u00eas para  a L\u00edngua Brasileira de Sinais. \u00c9 poss\u00edvel utilizar essas ferramentas  tanto no computador Desktop quanto em smartphones e tablets, atrav\u00e9s de  extens\u00f5es instaladas nos navegadores Google Chrome , Firefox , Safari ; instala\u00e7\u00e3o nos sistemas operacionais Windows (7 ou superior) , Addon VLibras NVDA , Linux (32 bits) , Linux (64 bits) ; instala\u00e7\u00e3o em Android e  IOS .",
+        "value": [
+         {
+          "children": [
+           {
+            "text": "O "
+           },
+           {
+            "children": [
+             {
+              "text": "VLibras"
+             }
+            ],
+            "data": {
+             "url": "http://www.vlibras.gov.br/"
+            },
+            "type": "link"
+           },
+           {
+            "text": " \u00e9 uma  su\u00edte de ferramentas utilizadas na tradu\u00e7\u00e3o autom\u00e1tica do Portugu\u00eas para  a L\u00edngua Brasileira de Sinais. \u00c9 poss\u00edvel utilizar essas ferramentas  tanto no computador Desktop quanto em smartphones e tablets, atrav\u00e9s de  extens\u00f5es instaladas nos navegadores "
+           },
+           {
+            "children": [
+             {
+              "text": "Google Chrome"
+             }
+            ],
+            "data": {
+             "url": "https://chrome.google.com/webstore/search/VLibras?hl=pt-BR"
+            },
+            "type": "link"
+           },
+           {
+            "text": ", "
+           },
+           {
+            "children": [
+             {
+              "text": "Firefox"
+             }
+            ],
+            "data": {
+             "url": "http://vlibras.gov.br/vlibras-plugin4.xpi"
+            },
+            "type": "link"
+           },
+           {
+            "text": ", "
+           },
+           {
+            "children": [
+             {
+              "text": "Safari"
+             }
+            ],
+            "data": {
+             "url": "http://vlibras.gov.br/vlibras-plugin4.safariextz"
+            },
+            "type": "link"
+           },
+           {
+            "text": "; instala\u00e7\u00e3o nos sistemas operacionais "
+           },
+           {
+            "children": [
+             {
+              "text": "Windows (7 ou superior)"
+             }
+            ],
+            "data": {
+             "url": "http://vlibras.gov.br/vlibras_instalador_5.1.0.exe"
+            },
+            "type": "link"
+           },
+           {
+            "text": ", "
+           },
+           {
+            "children": [
+             {
+              "text": "Addon VLibras NVDA"
+             }
+            ],
+            "data": {
+             "url": "http://vlibras.gov.br/vlibras-1.0.0-170220.1540.nvda-addon"
+            },
+            "type": "link"
+           },
+           {
+            "text": ", "
+           },
+           {
+            "children": [
+             {
+              "text": "Linux (32 bits)"
+             }
+            ],
+            "data": {
+             "url": "http://vlibras.gov.br/vlibras-desktop_5.1.0_i386.deb"
+            },
+            "type": "link"
+           },
+           {
+            "text": ", "
+           },
+           {
+            "children": [
+             {
+              "text": "Linux (64 bits)"
+             }
+            ],
+            "data": {
+             "url": "http://vlibras.gov.br/vlibras-desktop_5.1.0_amd64.deb"
+            },
+            "type": "link"
+           },
+           {
+            "text": "; instala\u00e7\u00e3o em "
+           },
+           {
+            "children": [
+             {
+              "text": "Android e "
+             }
+            ],
+            "data": {
+             "url": "https://play.google.com/store/apps/details?id=com.lavid.vlibrasdroid"
+            },
+            "type": "link"
+           },
+           {
+            "text": ""
+           },
+           {
+            "children": [
+             {
+              "text": "IOS"
+             }
+            ],
+            "data": {
+             "url": "https://itunes.apple.com/br/app/vlibras/id1039641615?mt=8"
+            },
+            "type": "link"
+           },
+           {
+            "text": "."
+           }
+          ],
+          "type": "p"
+         }
+        ]
+       },
+       "08cde8c5-8572-476b-84fc-848457157644": {
+        "@type": "slate",
+        "plaintext": "Teclas de acesso",
+        "value": [
+         {
+          "children": [
+           {
+            "text": "Teclas de acesso"
+           }
+          ],
+          "type": "h2"
+         }
+        ]
+       },
+       "11844aad-cdbc-43b4-b8a2-413633e5d8a0": {
+        "@type": "slate",
+        "plaintext": "Combina\u00e7\u00e3o da tecla CTRL e a tecla + (mais) para aumentar Combina\u00e7\u00e3o da tecla CTRL e a tecla - (menos) para diminuir Combina\u00e7\u00e3o da tecla CTRL e a tecla 0 (zero) para restaurar o tamanho original",
+        "value": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "text": "Combina\u00e7\u00e3o da tecla CTRL e a tecla + (mais) para aumentar"
+             }
+            ],
+            "type": "li"
+           },
+           {
+            "children": [
+             {
+              "text": "Combina\u00e7\u00e3o da tecla CTRL e a tecla - (menos) para diminuir"
+             }
+            ],
+            "type": "li"
+           },
+           {
+            "children": [
+             {
+              "text": "Combina\u00e7\u00e3o da tecla CTRL e a tecla 0 (zero) para restaurar o tamanho original"
+             }
+            ],
+            "type": "li"
+           }
+          ],
+          "type": "ul"
+         }
+        ]
+       },
+       "16e873e3-608a-46e5-b774-34aab959bec6": {
+        "@type": "title"
+       },
+       "204159d5-079e-4a6c-ad42-6d3543d6768c": {
+        "@type": "slate",
+        "plaintext": "E no Mac OS:",
+        "value": [
+         {
+          "children": [
+           {
+            "text": "E no Mac OS:"
+           }
+          ],
+          "type": "p"
+         }
+        ]
+       },
+       "2d656882-2164-4489-b98d-4a3f4845cca2": {
+        "@type": "slate",
+        "plaintext": "Tradu\u00e7\u00e3o autom\u00e1tica de conte\u00fados de L\u00edngua Portuguesa para a Libras",
+        "value": [
+         {
+          "children": [
+           {
+            "text": "Tradu\u00e7\u00e3o autom\u00e1tica de conte\u00fados de L\u00edngua Portuguesa para a Libras"
+           }
+          ],
+          "type": "h2"
+         }
+        ]
+       },
+       "2f6e0b93-f08b-4236-8ff8-1ecced7cc4a2": {
+        "@type": "slate",
+        "plaintext": "Combina\u00e7\u00e3o da tecla COMMAND e a tecla + (mais) para aumentar Combina\u00e7\u00e3o da tecla COMMAND e a tecla - (menos) para diminuir Combina\u00e7\u00e3o da tecla COMMAND e a tecla 0 (zero) para restaurar o tamanho original",
+        "value": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "text": "Combina\u00e7\u00e3o da tecla COMMAND e a tecla + (mais) para aumentar"
+             }
+            ],
+            "type": "li"
+           },
+           {
+            "children": [
+             {
+              "text": "Combina\u00e7\u00e3o da tecla COMMAND e a tecla - (menos) para diminuir "
+             }
+            ],
+            "type": "li"
+           },
+           {
+            "children": [
+             {
+              "text": "Combina\u00e7\u00e3o da tecla COMMAND e a tecla 0 (zero) para restaurar o tamanho original"
+             }
+            ],
+            "type": "li"
+           }
+          ],
+          "type": "ul"
+         }
+        ]
+       },
+       "385abf6d-beba-4d36-91f5-16af1792ecde": {
+        "@type": "slate",
+        "plaintext": " 1 \u2014 Ir para o conte\u00fado  2 \u2014 Pesquisa  3 \u2014 Rodap\u00e9",
+        "value": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "text": ""
+             },
+             {
+              "children": [
+               {
+                "text": "1"
+               }
+              ],
+              "type": "code"
+             },
+             {
+              "text": " \u2014 Ir para o conte\u00fado"
+             }
+            ],
+            "type": "li"
+           },
+           {
+            "children": [
+             {
+              "text": ""
+             },
+             {
+              "children": [
+               {
+                "text": "2"
+               }
+              ],
+              "type": "code"
+             },
+             {
+              "text": " \u2014 Pesquisa"
+             }
+            ],
+            "type": "li"
+           },
+           {
+            "children": [
+             {
+              "text": ""
+             },
+             {
+              "children": [
+               {
+                "text": "3"
+               }
+              ],
+              "type": "code"
+             },
+             {
+              "text": " \u2014 Rodap\u00e9"
+             }
+            ],
+            "type": "li"
+           }
+          ],
+          "type": "ul"
+         }
+        ]
+       },
+       "5d7d6ff6-5569-487d-9460-3f596fca3837": {
+        "@type": "slate",
+        "plaintext": "Este site foi projetado para ser completamente acess\u00edvel e us\u00e1vel, estando em conformidade com as Diretrizes de Acessibilidade para Conte\u00fado Web (WCAG  v1.0). Se existir qualquer problema \u2014 relacionado \u00e0 acessibilidade  ou valida\u00e7\u00e3o \u2014 que n\u00e3o esteja de acordo com os padr\u00f5es, por favor entre em contato com a Administra\u00e7\u00e3o do Site .",
+        "value": [
+         {
+          "children": [
+           {
+            "text": "Este site foi projetado para ser completamente acess\u00edvel e us\u00e1vel, estando em conformidade com as Diretrizes de Acessibilidade para Conte\u00fado Web (WCAG  v1.0). Se existir qualquer problema \u2014 relacionado \u00e0 acessibilidade  ou valida\u00e7\u00e3o \u2014 que n\u00e3o esteja de acordo com os padr\u00f5es, por favor entre em contato com a "
+           },
+           {
+            "type": "link",
+            "data": {
+             "url": "mailto:interlegis@gmail.com"
+            },
+            "children": [
+             {
+              "text": "Administra\u00e7\u00e3o do Site"
+             }
+            ]
+           },
+           {
+            "text": ".\n        "
+           }
+          ],
+          "type": "p"
+         }
+        ]
+       },
+       "aa9ee013-8770-4288-bc72-c362eddc4b4c": {
+        "@type": "slate",
+        "plaintext": "Tamanho do texto",
+        "value": [
+         {
+          "children": [
+           {
+            "text": "Tamanho do texto"
+           }
+          ],
+          "type": "h2"
+         }
+        ]
+       },
+       "ca938317-1493-46f6-99ee-915ed3b2176c": {
+        "@type": "slate",
+        "plaintext": "Para acessar os itens abaixo, mantenha as teclas pressionadas mais o n\u00famero abaixo escolhido:",
+        "value": [
+         {
+          "children": [
+           {
+            "text": "Para acessar os itens abaixo, mantenha as teclas pressionadas mais o n\u00famero abaixo escolhido:"
+           }
+          ],
+          "type": "p"
+         }
+        ]
+       },
+       "d41d9fd6-d84f-487d-82db-5f22b7c3c8c9": {
+        "@type": "slate",
+        "plaintext": "tecla ALT para os navegadores Internet Explorer, Google Chrome e Safari em um computador Microsoft Windows teclas SHIFT e ALT, simultaneamente, para o navegador Mozilla Firefox em um computador Microsoft Windows ou Linux tecla COMMAND para o sistema operacional Mac OS",
+        "value": [
+         {
+          "children": [
+           {
+            "children": [
+             {
+              "text": "tecla ALT para os navegadores Internet Explorer, Google Chrome e Safari em um computador Microsoft Windows"
+             }
+            ],
+            "type": "li"
+           },
+           {
+            "children": [
+             {
+              "text": "teclas SHIFT e ALT, simultaneamente, para o navegador Mozilla Firefox em um computador Microsoft Windows ou Linux"
+             }
+            ],
+            "type": "li"
+           },
+           {
+            "children": [
+             {
+              "text": "tecla COMMAND para o sistema operacional Mac OS"
+             }
+            ],
+            "type": "li"
+           }
+          ],
+          "type": "ul"
+         }
+        ]
+       },
+       "e1233a44-98c6-44a0-9459-4ef66722b807": {
+        "@type": "slate",
+        "plaintext": "Teclas de acesso s\u00e3o um recurso de navega\u00e7\u00e3o que permitem voc\u00ea navegar neste site com o seu teclado, elas dependem do sistemao peracional e do navegador que voc\u00ea usa. As combina\u00e7\u00f5es poss\u00edveis s\u00e3o:",
+        "value": [
+         {
+          "children": [
+           {
+            "text": "Teclas de acesso s\u00e3o um recurso de navega\u00e7\u00e3o que permitem voc\u00ea navegar neste site com o seu teclado, elas dependem do sistemao peracional e do navegador que voc\u00ea usa. As combina\u00e7\u00f5es poss\u00edveis s\u00e3o:"
+           }
+          ],
+          "type": "p"
+         }
+        ]
+       },
+       "e589a36d-e382-419a-86d3-603740b22d62": {
+        "@type": "slate",
+        "plaintext": "\u00c9 poss\u00edvel utilizar as seguintes combina\u00e7\u00f5es de teclas para usar o zoom no Microsoft Windows ou no Linux:",
+        "value": [
+         {
+          "children": [
+           {
+            "text": "\u00c9 poss\u00edvel utilizar as seguintes combina\u00e7\u00f5es de teclas para usar o zoom no Microsoft Windows ou no Linux:"
+           }
+          ],
+          "type": "p"
+         }
+        ]
+       }
+    },
+    "blocks_layout": {
+      "items": [
+        "16e873e3-608a-46e5-b774-34aab959bec6",
+        "5d7d6ff6-5569-487d-9460-3f596fca3837",
+        "aa9ee013-8770-4288-bc72-c362eddc4b4c",
+        "e589a36d-e382-419a-86d3-603740b22d62",
+        "11844aad-cdbc-43b4-b8a2-413633e5d8a0",
+        "204159d5-079e-4a6c-ad42-6d3543d6768c",
+        "2f6e0b93-f08b-4236-8ff8-1ecced7cc4a2",
+        "08cde8c5-8572-476b-84fc-848457157644",
+        "e1233a44-98c6-44a0-9459-4ef66722b807",
+        "d41d9fd6-d84f-487d-82db-5f22b7c3c8c9",
+        "ca938317-1493-46f6-99ee-915ed3b2176c",
+        "385abf6d-beba-4d36-91f5-16af1792ecde",
+        "2d656882-2164-4489-b98d-4a3f4845cca2",
+        "0493d9c7-3200-480f-ba2d-43abcf8c4329"
+       ]
+    },
+    "_transitions": [
+      "publish"
+    ],
+    "exclude_from_nav": true
   }
 ]
