@@ -10,7 +10,7 @@
 .navbar_global {
   font-size: 1rem;
   min-height: 50px;
-  padding-left: 10px;
+  padding-left: 50px;
   padding-right: 0;
   background-color: #580D0D;
 }
@@ -99,7 +99,10 @@ Rail>:not(:last-child) {
 }
 .link-deep--facebook,
 .link-deep--instagram,
-.link-deep--youtube {
+.link-deep--youtube,
+.link-deep--contato,
+.link-deep--faq,
+.link-deep--discord {
     color: #000;
 }
 .fa-instagram:before {
@@ -157,7 +160,7 @@ h2#f73c3555-5bd9-4a19-9ae3-2bdb262d0305 a,
   .ui.segment.portal-footer {
       box-shadow: none;
       margin: 0em;
-      padding: 0 20em 0 25em;
+      padding: 0.5em 0 0 0.5em;
       border: none;
       background-color: #580D0D !important;
   }
@@ -167,6 +170,7 @@ h2#f73c3555-5bd9-4a19-9ae3-2bdb262d0305 a,
     padding: 0em;
     border: none;
     background-color: #580D0D !important;
+    margin: 0 0 0 40px;
 
     a {
       color: #8FBCD8;
